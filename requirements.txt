@@ -1,0 +1,4 @@
+gradio==6.5.1
+pandas
+python-dotenv
+groq
