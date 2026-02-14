@@ -1,0 +1,16 @@
+﻿Date,SKU,Category,Region,Channel,Units_Sold,Revenue,Price
+01-01-2025,SKU001,Beverages,North,Modern Trade,1200,60000,50
+01-01-2025,SKU002,Biscuits,North,General Trade,1500,75000,50
+01-01-2025,SKU003,Snacks,West,E-commerce,900,54000,60
+01-01-2025,SKU004,Beverages,South,Modern Trade,800,40000,50
+01-01-2025,SKU005,Dairy,East,General Trade,1100,66000,60
+01-02-2025,SKU001,Beverages,North,Modern Trade,1300,65000,50
+01-02-2025,SKU002,Biscuits,North,General Trade,1400,70000,50
+01-02-2025,SKU003,Snacks,West,E-commerce,1000,60000,60
+01-02-2025,SKU004,Beverages,South,Modern Trade,900,45000,50
+01-02-2025,SKU005,Dairy,East,General Trade,1200,72000,60
+01-03-2025,SKU001,Beverages,North,Modern Trade,1250,62500,50
+01-03-2025,SKU002,Biscuits,North,General Trade,1550,77500,50
+01-03-2025,SKU003,Snacks,West,E-commerce,1100,66000,60
+01-03-2025,SKU004,Beverages,South,Modern Trade,950,47500,50
+01-03-2025,SKU005,Dairy,East,General Trade,1300,78000,60
