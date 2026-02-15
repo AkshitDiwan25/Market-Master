@@ -40,56 +40,56 @@ def generate_ai_insights(df, category):
     prompt = f"""
     You are a senior retail strategy consultant preparing content for a consulting slide deck.
 
-You are provided structured retail sales data (revenue, units sold, geography, brand/SKU) below:
+    You are provided structured retail sales data (revenue, units sold, geography, brand/SKU) below:
 
-Category: {category}
-Total Revenue: {total_revenue}
-Total Units Sold: {total_units}
+    Category: {category}
+    Total Revenue: {total_revenue}
+    Total Units Sold: {total_units}
 
-Your objective is to generate consulting-grade market intelligence suitable for senior leadership presentation.
+    Your objective is to generate consulting-grade market intelligence suitable for senior leadership presentation.
 
-Output format must follow this exact structure:
+    Output format must follow this exact structure:
 
-Executive Summary (5-7 bullets)
-- Insight-led (not descriptive)
-- Highlight performance momentum, structural risks, growth pockets
-- Call out any anomalies or concentration risks
-- Focus on what matters commercially
+    Executive Summary (5-7 bullets)
+    - Insight-led (not descriptive)
+    - Highlight performance momentum, structural risks, growth pockets
+    - Call out any anomalies or concentration risks
+    - Focus on what matters commercially
 
-Geographic Performance Split
-- Compare regions by relative performance
-- Identify over-indexing vs under-indexing geographies
-- Mention implications for distribution, pricing, and expansion
-- Highlight risk if revenue is overly concentrated
+    Geographic Performance Split
+    - Compare regions by relative performance
+    - Identify over-indexing vs under-indexing geographies
+    - Mention implications for distribution, pricing, and expansion
+    - Highlight risk if revenue is overly concentrated
 
-Competition 
-- Identify which players appear to be gaining vs losing momentum
-- Suggest plausible drivers (pricing, premiumisation, channel mix, SKU breadth)
-- Indicate strategic vulnerability areas
+    Competition 
+    - Identify which players appear to be gaining vs losing momentum
+    - Suggest plausible drivers (pricing, premiumisation, channel mix, SKU breadth)
+    - Indicate strategic vulnerability areas
 
-Strategic Recommendations
-Separate into:
-• Quick Wins (0-6 months)
-• Structural Moves (6-18 months)
+    Strategic Recommendations
+    Separate into:
+    • Quick Wins (0-6 months)
+    • Structural Moves (6-18 months)
 
-Recommendations must be:
-- Actionable
-- Prioritized
-- Commercially realistic
-- ROI-oriented
+    Recommendations must be:
+    - Actionable
+    - Prioritized
+    - Commercially realistic
+    - ROI-oriented
 
-Connection with Latest News
-- Connect findings to macro retail trends (inflation, premiumisation, digital penetration, supply chain shifts, private labels, etc.)
-- Tie dataset signals to broader industry dynamics
-- Make insights feel current and forward-looking
+    Connection with Latest News
+    - Connect findings to macro retail trends (inflation, premiumisation, digital penetration, supply chain shifts, private labels, etc.)
+    - Tie dataset signals to broader industry dynamics
+    - Make insights feel current and forward-looking
 
-Guidelines:
-- Write in crisp consulting-style bullets
-- Avoid generic AI phrasing
-- Avoid restating raw numbers unless strategically important
-- Focus on implications and decision-enabling insights
-- Keep total length between 400-600 words
-- Maintain an executive, boardroom-ready tone
+    Guidelines:
+    - Write in crisp consulting-style bullets
+    - Avoid generic AI phrasing
+    - Avoid restating raw numbers unless strategically important
+    - Focus on implications and decision-enabling insights
+    - Keep total length between 400-600 words
+    - Maintain an executive, boardroom-ready tone
 
     """
     
@@ -116,7 +116,7 @@ def generate_news(category):
     - A short headline
     - 1 line explanation
 
-    Constraints: The news update should be recent (within the last 2-3 months) and should be most relevant to the {category} and should be from a trusted source.
+    Constraints: The news update should be most relevant to the {category} and should be from a trusted source. Do mention the source; its fine if we skip the exact timeline of it.
     """
 
     response = client.chat.completions.create(
