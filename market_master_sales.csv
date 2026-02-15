@@ -1,16 +1,1201 @@
-﻿Date,SKU,Category,Region,Channel,Units_Sold,Revenue,Price
-01-01-2025,SKU001,Beverages,North,Modern Trade,1200,60000,50
-01-01-2025,SKU002,Biscuits,North,General Trade,1500,75000,50
-01-01-2025,SKU003,Snacks,West,E-commerce,900,54000,60
-01-01-2025,SKU004,Beverages,South,Modern Trade,800,40000,50
-01-01-2025,SKU005,Dairy,East,General Trade,1100,66000,60
-01-02-2025,SKU001,Beverages,North,Modern Trade,1300,65000,50
-01-02-2025,SKU002,Biscuits,North,General Trade,1400,70000,50
-01-02-2025,SKU003,Snacks,West,E-commerce,1000,60000,60
-01-02-2025,SKU004,Beverages,South,Modern Trade,900,45000,50
-01-02-2025,SKU005,Dairy,East,General Trade,1200,72000,60
-01-03-2025,SKU001,Beverages,North,Modern Trade,1250,62500,50
-01-03-2025,SKU002,Biscuits,North,General Trade,1550,77500,50
-01-03-2025,SKU003,Snacks,West,E-commerce,1100,66000,60
-01-03-2025,SKU004,Beverages,South,Modern Trade,950,47500,50
-01-03-2025,SKU005,Dairy,East,General Trade,1300,78000,60
+Date,SKU,Category,Country,Region,Channel,Units_Sold,Revenue,Price
+21-04-2025,SKU010,Running Shoes,India,West,E-commerce,1212,84840,70
+28-01-2025,SKU008,Casual Shoes,US,North,E-commerce,1376,82560,60
+30-04-2025,SKU035,Casual Shoes,India,South,E-commerce,2765,193550,70
+22-05-2025,SKU040,Sports Apparel,Australia,East,E-commerce,1745,122150,70
+10-11-2025,SKU006,Backpacks,US,South,Modern Trade,669,26760,40
+07-06-2025,SKU021,Electronics Accessories,Mexico,North,E-commerce,2515,201200,80
+05-01-2025,SKU034,Sports Apparel,Canada,East,E-commerce,2249,134940,60
+12-12-2025,SKU013,Casual Shoes,Mexico,North,Modern Trade,2108,63240,30
+29-06-2025,SKU050,Casual Shoes,India,North,General Trade,2126,85040,40
+21-02-2025,SKU011,Casual Shoes,Australia,West,General Trade,2610,104400,40
+24-06-2025,SKU018,Electronics Accessories,India,West,E-commerce,2125,106250,50
+06-11-2025,SKU008,Casual Shoes,Canada,South,General Trade,2108,84320,40
+07-09-2025,SKU011,Casual Shoes,Mexico,South,General Trade,1756,70240,40
+25-06-2025,SKU006,Backpacks,US,South,E-commerce,1230,49200,40
+30-03-2025,SKU050,Casual Shoes,Mexico,East,E-commerce,2535,126750,50
+01-06-2025,SKU027,Backpacks,Canada,East,General Trade,1608,80400,50
+08-05-2025,SKU004,Casual Shoes,Canada,West,General Trade,2737,191590,70
+08-07-2025,SKU038,Running Shoes,Mexico,West,Modern Trade,2898,173880,60
+23-06-2025,SKU044,Electronics Accessories,Canada,East,E-commerce,2650,106000,40
+22-12-2025,SKU034,Sports Apparel,India,North,E-commerce,2268,136080,60
+26-12-2025,SKU037,Casual Shoes,India,West,E-commerce,2065,165200,80
+08-08-2025,SKU039,Running Shoes,US,South,Modern Trade,533,42640,80
+06-12-2025,SKU046,Backpacks,US,West,E-commerce,2537,152220,60
+14-12-2025,SKU041,Casual Shoes,Canada,West,Modern Trade,2100,168000,80
+22-09-2025,SKU026,Casual Sneakers,Mexico,South,Modern Trade,2057,164560,80
+23-10-2025,SKU017,Casual Shoes,India,East,Modern Trade,1243,99440,80
+16-07-2025,SKU005,Electronics Accessories,US,West,Modern Trade,1582,94920,60
+30-10-2025,SKU023,Backpacks,India,East,Modern Trade,2148,85920,40
+25-05-2025,SKU011,Casual Shoes,Mexico,North,General Trade,527,21080,40
+28-11-2025,SKU050,Casual Shoes,US,West,E-commerce,2482,198560,80
+29-12-2025,SKU026,Casual Sneakers,Mexico,West,E-commerce,1951,78040,40
+13-12-2025,SKU041,Casual Shoes,US,South,General Trade,2909,174540,60
+22-09-2025,SKU001,Electronics Accessories,Mexico,East,E-commerce,2358,117900,50
+10-02-2025,SKU021,Electronics Accessories,US,East,Modern Trade,955,47750,50
+29-09-2025,SKU007,Electronics Accessories,Mexico,West,Modern Trade,2540,127000,50
+27-09-2025,SKU029,Running Shoes,India,West,General Trade,2105,84200,40
+12-09-2025,SKU009,Casual Shoes,US,East,General Trade,1881,75240,40
+21-01-2025,SKU007,Electronics Accessories,Mexico,North,General Trade,1145,57250,50
+23-04-2025,SKU035,Casual Shoes,Mexico,East,General Trade,1923,134610,70
+19-01-2025,SKU030,Electronics Accessories,US,North,General Trade,2972,118880,40
+18-03-2025,SKU016,Sports Apparel,Canada,West,E-commerce,2998,239840,80
+01-02-2025,SKU037,Casual Shoes,US,East,Modern Trade,2422,121100,50
+23-05-2025,SKU023,Backpacks,Mexico,East,E-commerce,2355,117750,50
+30-06-2025,SKU008,Casual Shoes,Mexico,North,Modern Trade,1536,46080,30
+14-02-2025,SKU038,Running Shoes,India,West,General Trade,543,27150,50
+30-10-2025,SKU049,Running Shoes,India,South,E-commerce,1306,65300,50
+18-10-2025,SKU027,Backpacks,India,West,E-commerce,1920,57600,30
+17-02-2025,SKU038,Running Shoes,India,North,E-commerce,1080,32400,30
+01-06-2025,SKU019,Electronics Accessories,India,West,E-commerce,2130,127800,60
+05-02-2025,SKU027,Backpacks,Canada,West,Modern Trade,1016,71120,70
+21-05-2025,SKU042,Backpacks,US,North,General Trade,769,30760,40
+07-03-2025,SKU019,Electronics Accessories,Mexico,South,E-commerce,700,28000,40
+27-10-2025,SKU003,Casual Shoes,India,East,Modern Trade,757,60560,80
+21-11-2025,SKU033,Running Shoes,India,North,Modern Trade,2919,233520,80
+11-05-2025,SKU021,Electronics Accessories,US,West,General Trade,560,39200,70
+11-07-2025,SKU022,Sports Apparel,Canada,North,General Trade,2724,217920,80
+09-06-2025,SKU020,Casual Sneakers,Canada,East,General Trade,946,47300,50
+01-12-2025,SKU013,Casual Shoes,Canada,South,E-commerce,1965,78600,40
+04-11-2025,SKU037,Casual Shoes,Mexico,South,General Trade,2651,159060,60
+04-09-2025,SKU028,Casual Shoes,US,East,General Trade,2574,102960,40
+20-10-2025,SKU004,Casual Shoes,India,West,General Trade,1844,129080,70
+08-10-2025,SKU016,Sports Apparel,India,West,Modern Trade,1336,66800,50
+05-07-2025,SKU020,Casual Sneakers,Mexico,South,General Trade,2128,148960,70
+17-02-2025,SKU020,Casual Sneakers,India,North,General Trade,1414,42420,30
+20-10-2025,SKU002,Sports Apparel,India,North,E-commerce,2091,62730,30
+01-05-2025,SKU044,Electronics Accessories,Australia,North,General Trade,1253,62650,50
+08-04-2025,SKU035,Casual Shoes,US,West,General Trade,1205,60250,50
+12-07-2025,SKU030,Electronics Accessories,India,North,E-commerce,823,49380,60
+04-08-2025,SKU033,Running Shoes,US,North,E-commerce,1660,83000,50
+14-02-2025,SKU010,Running Shoes,US,East,General Trade,1804,54120,30
+18-07-2025,SKU012,Running Shoes,US,West,E-commerce,1268,101440,80
+17-12-2025,SKU025,Backpacks,Canada,South,E-commerce,2854,228320,80
+06-06-2025,SKU029,Running Shoes,US,North,E-commerce,2278,113900,50
+10-08-2025,SKU002,Sports Apparel,Australia,South,Modern Trade,1527,45810,30
+01-08-2025,SKU043,Casual Shoes,India,East,Modern Trade,668,46760,70
+21-01-2025,SKU022,Sports Apparel,Australia,East,E-commerce,1143,91440,80
+02-10-2025,SKU006,Backpacks,Australia,East,Modern Trade,2438,170660,70
+04-04-2025,SKU006,Backpacks,Australia,West,Modern Trade,2708,216640,80
+02-06-2025,SKU001,Electronics Accessories,Australia,West,E-commerce,1707,136560,80
+12-02-2025,SKU002,Sports Apparel,Mexico,East,E-commerce,1485,103950,70
+05-11-2025,SKU023,Backpacks,Mexico,West,Modern Trade,2271,158970,70
+15-02-2025,SKU009,Casual Shoes,Mexico,East,E-commerce,1908,133560,70
+06-05-2025,SKU042,Backpacks,US,South,E-commerce,1470,58800,40
+14-10-2025,SKU011,Casual Shoes,Mexico,West,E-commerce,1457,101990,70
+20-04-2025,SKU002,Sports Apparel,Mexico,South,Modern Trade,2401,168070,70
+15-06-2025,SKU019,Electronics Accessories,India,North,General Trade,939,56340,60
+12-02-2025,SKU017,Casual Shoes,US,North,Modern Trade,1369,82140,60
+03-09-2025,SKU035,Casual Shoes,Canada,East,Modern Trade,2463,197040,80
+08-02-2025,SKU010,Running Shoes,Mexico,South,Modern Trade,2422,169540,70
+22-10-2025,SKU006,Backpacks,US,East,Modern Trade,938,28140,30
+02-02-2025,SKU010,Running Shoes,Mexico,South,E-commerce,1467,73350,50
+02-06-2025,SKU032,Electronics Accessories,US,North,Modern Trade,1998,139860,70
+23-03-2025,SKU013,Casual Shoes,Australia,South,E-commerce,2494,99760,40
+03-09-2025,SKU046,Backpacks,US,South,E-commerce,1869,56070,30
+22-07-2025,SKU040,Sports Apparel,India,South,E-commerce,1785,107100,60
+06-10-2025,SKU018,Electronics Accessories,India,North,E-commerce,2158,64740,30
+18-12-2025,SKU034,Sports Apparel,Australia,South,General Trade,2908,232640,80
+24-10-2025,SKU037,Casual Shoes,US,West,Modern Trade,1980,118800,60
+11-08-2025,SKU019,Electronics Accessories,US,East,Modern Trade,1124,33720,30
+30-09-2025,SKU035,Casual Shoes,US,West,General Trade,1094,32820,30
+04-12-2025,SKU044,Electronics Accessories,Mexico,South,General Trade,2937,117480,40
+11-10-2025,SKU007,Electronics Accessories,Mexico,North,Modern Trade,1793,71720,40
+17-08-2025,SKU032,Electronics Accessories,Mexico,East,Modern Trade,1567,62680,40
+02-10-2025,SKU037,Casual Shoes,Mexico,West,General Trade,873,52380,60
+15-03-2025,SKU009,Casual Shoes,US,West,Modern Trade,2490,199200,80
+08-08-2025,SKU023,Backpacks,Mexico,West,General Trade,2408,192640,80
+18-04-2025,SKU040,Sports Apparel,US,East,General Trade,2224,133440,60
+21-12-2025,SKU042,Backpacks,Mexico,North,General Trade,2147,64410,30
+06-05-2025,SKU022,Sports Apparel,Australia,North,General Trade,2145,107250,50
+12-06-2025,SKU029,Running Shoes,Mexico,East,Modern Trade,1269,38070,30
+10-10-2025,SKU001,Electronics Accessories,Canada,South,Modern Trade,2028,101400,50
+17-05-2025,SKU007,Electronics Accessories,India,West,Modern Trade,2511,200880,80
+06-07-2025,SKU006,Backpacks,US,South,E-commerce,1985,138950,70
+01-10-2025,SKU035,Casual Shoes,US,East,E-commerce,1483,59320,40
+30-06-2025,SKU041,Casual Shoes,Mexico,East,E-commerce,2130,127800,60
+15-02-2025,SKU012,Running Shoes,US,South,General Trade,1898,113880,60
+17-01-2025,SKU009,Casual Shoes,India,West,General Trade,2824,225920,80
+25-10-2025,SKU024,Casual Sneakers,Australia,South,Modern Trade,1782,142560,80
+27-01-2025,SKU011,Casual Shoes,US,North,Modern Trade,2002,120120,60
+15-01-2025,SKU022,Sports Apparel,Mexico,South,Modern Trade,1444,72200,50
+15-02-2025,SKU028,Casual Shoes,Canada,North,E-commerce,2113,63390,30
+08-12-2025,SKU042,Backpacks,US,West,E-commerce,1492,104440,70
+15-10-2025,SKU008,Casual Shoes,Australia,West,E-commerce,1596,63840,40
+05-06-2025,SKU025,Backpacks,Australia,South,General Trade,2537,101480,40
+23-09-2025,SKU004,Casual Shoes,Mexico,West,General Trade,1545,108150,70
+05-01-2025,SKU022,Sports Apparel,Australia,West,General Trade,775,54250,70
+06-09-2025,SKU027,Backpacks,India,North,Modern Trade,1920,96000,50
+16-10-2025,SKU047,Casual Shoes,Canada,West,Modern Trade,2354,188320,80
+21-12-2025,SKU021,Electronics Accessories,US,West,E-commerce,2995,239600,80
+27-09-2025,SKU020,Casual Sneakers,Mexico,South,Modern Trade,2814,196980,70
+10-11-2025,SKU005,Electronics Accessories,Mexico,South,Modern Trade,1975,158000,80
+10-12-2025,SKU031,Electronics Accessories,Mexico,East,Modern Trade,2353,141180,60
+15-09-2025,SKU045,Casual Sneakers,Mexico,East,General Trade,1929,57870,30
+06-09-2025,SKU028,Casual Shoes,Canada,South,Modern Trade,2298,114900,50
+06-06-2025,SKU018,Electronics Accessories,Australia,West,General Trade,883,52980,60
+08-08-2025,SKU023,Backpacks,US,South,Modern Trade,634,25360,40
+02-04-2025,SKU016,Sports Apparel,Mexico,North,General Trade,2955,236400,80
+30-03-2025,SKU022,Sports Apparel,Canada,South,E-commerce,821,24630,30
+01-06-2025,SKU001,Electronics Accessories,India,East,E-commerce,682,20460,30
+14-05-2025,SKU036,Sports Apparel,Australia,East,General Trade,731,21930,30
+14-08-2025,SKU008,Casual Shoes,India,South,Modern Trade,1659,132720,80
+21-11-2025,SKU024,Casual Sneakers,Australia,West,E-commerce,2202,110100,50
+06-01-2025,SKU014,Sports Apparel,Mexico,East,General Trade,2662,186340,70
+03-12-2025,SKU045,Casual Sneakers,Mexico,North,General Trade,2091,83640,40
+03-08-2025,SKU016,Sports Apparel,Mexico,North,General Trade,2279,182320,80
+29-04-2025,SKU006,Backpacks,India,North,Modern Trade,984,68880,70
+12-02-2025,SKU048,Backpacks,India,East,General Trade,2838,85140,30
+30-01-2025,SKU017,Casual Shoes,India,West,General Trade,2729,136450,50
+26-10-2025,SKU029,Running Shoes,Canada,North,General Trade,1244,62200,50
+08-07-2025,SKU045,Casual Sneakers,Australia,North,General Trade,1462,58480,40
+15-10-2025,SKU016,Sports Apparel,India,West,General Trade,1235,61750,50
+12-02-2025,SKU019,Electronics Accessories,Mexico,East,Modern Trade,2359,94360,40
+08-10-2025,SKU031,Electronics Accessories,US,South,E-commerce,2303,138180,60
+03-06-2025,SKU009,Casual Shoes,US,North,General Trade,2223,88920,40
+14-11-2025,SKU050,Casual Shoes,US,East,General Trade,2996,149800,50
+18-02-2025,SKU001,Electronics Accessories,Mexico,West,Modern Trade,1474,117920,80
+29-01-2025,SKU045,Casual Sneakers,Canada,East,E-commerce,965,38600,40
+01-09-2025,SKU037,Casual Shoes,Canada,South,General Trade,1904,152320,80
+15-02-2025,SKU018,Electronics Accessories,Mexico,East,General Trade,2577,180390,70
+23-01-2025,SKU010,Running Shoes,Mexico,South,General Trade,2168,65040,30
+02-12-2025,SKU020,Casual Sneakers,Mexico,South,Modern Trade,2000,160000,80
+14-06-2025,SKU011,Casual Shoes,US,East,E-commerce,1736,104160,60
+27-10-2025,SKU017,Casual Shoes,US,North,E-commerce,2708,81240,30
+16-10-2025,SKU043,Casual Shoes,Mexico,West,Modern Trade,1210,36300,30
+17-03-2025,SKU048,Backpacks,Canada,West,Modern Trade,982,39280,40
+24-09-2025,SKU012,Running Shoes,India,South,Modern Trade,1786,53580,30
+16-10-2025,SKU025,Backpacks,US,North,Modern Trade,2990,149500,50
+03-01-2025,SKU027,Backpacks,US,South,Modern Trade,2655,159300,60
+11-10-2025,SKU040,Sports Apparel,Mexico,West,Modern Trade,1124,89920,80
+04-02-2025,SKU014,Sports Apparel,Australia,South,E-commerce,614,30700,50
+18-06-2025,SKU026,Casual Sneakers,US,South,General Trade,857,68560,80
+01-02-2025,SKU021,Electronics Accessories,Canada,East,E-commerce,1586,47580,30
+15-09-2025,SKU011,Casual Shoes,Canada,South,E-commerce,886,44300,50
+17-02-2025,SKU045,Casual Sneakers,India,West,E-commerce,1392,111360,80
+03-05-2025,SKU002,Sports Apparel,India,South,General Trade,1931,96550,50
+04-08-2025,SKU044,Electronics Accessories,Mexico,South,General Trade,2379,71370,30
+21-05-2025,SKU009,Casual Shoes,Canada,South,Modern Trade,2115,126900,60
+28-05-2025,SKU045,Casual Sneakers,US,North,E-commerce,555,38850,70
+04-05-2025,SKU026,Casual Sneakers,India,South,Modern Trade,2180,109000,50
+26-08-2025,SKU013,Casual Shoes,Mexico,South,E-commerce,2173,108650,50
+09-11-2025,SKU031,Electronics Accessories,India,South,Modern Trade,1284,102720,80
+14-07-2025,SKU006,Backpacks,Australia,North,E-commerce,986,39440,40
+29-04-2025,SKU016,Sports Apparel,US,South,Modern Trade,661,26440,40
+25-10-2025,SKU006,Backpacks,India,North,General Trade,1552,108640,70
+12-06-2025,SKU021,Electronics Accessories,South Africa,South,Modern Trade,1785,53550,30
+04-06-2025,SKU018,Electronics Accessories,US,South,Modern Trade,1457,116560,80
+31-03-2025,SKU033,Running Shoes,India,South,General Trade,991,29730,30
+18-07-2025,SKU033,Running Shoes,India,South,Modern Trade,2849,85470,30
+06-12-2025,SKU021,Electronics Accessories,India,East,E-commerce,1748,104880,60
+28-01-2025,SKU046,Backpacks,Canada,South,Modern Trade,1178,70680,60
+07-11-2025,SKU041,Casual Shoes,Canada,West,General Trade,2540,152400,60
+06-11-2025,SKU027,Backpacks,India,South,Modern Trade,1397,41910,30
+06-02-2025,SKU026,Casual Sneakers,Mexico,South,General Trade,1762,88100,50
+12-04-2025,SKU029,Running Shoes,South Africa,West,E-commerce,1131,56550,50
+09-02-2025,SKU021,Electronics Accessories,Mexico,West,General Trade,1464,117120,80
+01-11-2025,SKU011,Casual Shoes,US,North,E-commerce,1215,72900,60
+27-04-2025,SKU043,Casual Shoes,US,North,General Trade,2258,158060,70
+17-02-2025,SKU001,Electronics Accessories,Mexico,West,Modern Trade,2637,79110,30
+10-09-2025,SKU037,Casual Shoes,Mexico,West,General Trade,1728,69120,40
+10-06-2025,SKU026,Casual Sneakers,Mexico,East,Modern Trade,1064,63840,60
+18-03-2025,SKU042,Backpacks,Mexico,West,Modern Trade,1433,57320,40
+21-04-2025,SKU044,Electronics Accessories,Mexico,West,Modern Trade,1153,46120,40
+05-08-2025,SKU009,Casual Shoes,US,West,E-commerce,1211,36330,30
+15-07-2025,SKU006,Backpacks,South Africa,West,General Trade,1044,62640,60
+03-05-2025,SKU028,Casual Shoes,US,East,Modern Trade,2468,74040,30
+09-09-2025,SKU035,Casual Shoes,US,South,Modern Trade,1485,74250,50
+17-04-2025,SKU047,Casual Shoes,US,East,Modern Trade,1727,103620,60
+08-06-2025,SKU005,Electronics Accessories,India,South,General Trade,1089,87120,80
+25-07-2025,SKU041,Casual Shoes,US,East,Modern Trade,1175,70500,60
+05-07-2025,SKU029,Running Shoes,India,South,Modern Trade,2076,124560,60
+06-02-2025,SKU020,Casual Sneakers,South Africa,East,E-commerce,1115,33450,30
+27-10-2025,SKU030,Electronics Accessories,India,North,Modern Trade,1541,77050,50
+07-09-2025,SKU013,Casual Shoes,South Africa,West,Modern Trade,562,39340,70
+01-06-2025,SKU017,Casual Shoes,Mexico,West,Modern Trade,1550,108500,70
+20-01-2025,SKU016,Sports Apparel,Mexico,North,E-commerce,1763,52890,30
+11-04-2025,SKU001,Electronics Accessories,Mexico,North,General Trade,854,34160,40
+28-04-2025,SKU025,Backpacks,Mexico,West,General Trade,640,32000,50
+07-11-2025,SKU005,Electronics Accessories,South Africa,North,Modern Trade,1682,100920,60
+28-11-2025,SKU038,Running Shoes,South Africa,East,E-commerce,1487,44610,30
+01-01-2025,SKU040,Sports Apparel,South Africa,South,Modern Trade,2941,205870,70
+13-09-2025,SKU019,Electronics Accessories,Canada,North,Modern Trade,1321,92470,70
+05-09-2025,SKU004,Casual Shoes,South Africa,North,General Trade,1886,94300,50
+16-06-2025,SKU004,Casual Shoes,US,North,E-commerce,1500,45000,30
+09-01-2025,SKU002,Sports Apparel,Mexico,North,General Trade,1410,84600,60
+20-05-2025,SKU028,Casual Shoes,Canada,South,Modern Trade,914,45700,50
+24-07-2025,SKU015,Electronics Accessories,South Africa,East,Modern Trade,861,60270,70
+22-11-2025,SKU044,Electronics Accessories,India,North,Modern Trade,905,36200,40
+08-12-2025,SKU018,Electronics Accessories,US,West,Modern Trade,1053,73710,70
+29-08-2025,SKU005,Electronics Accessories,US,North,E-commerce,1053,52650,50
+06-08-2025,SKU021,Electronics Accessories,Mexico,East,Modern Trade,2201,110050,50
+23-07-2025,SKU039,Running Shoes,US,South,E-commerce,2429,194320,80
+15-06-2025,SKU049,Running Shoes,India,South,General Trade,1960,156800,80
+07-10-2025,SKU033,Running Shoes,Mexico,East,General Trade,2612,104480,40
+28-04-2025,SKU024,Casual Sneakers,India,North,General Trade,1052,84160,80
+14-01-2025,SKU015,Electronics Accessories,Canada,East,Modern Trade,1839,55170,30
+12-10-2025,SKU032,Electronics Accessories,Mexico,South,Modern Trade,1025,30750,30
+30-08-2025,SKU031,Electronics Accessories,Mexico,South,Modern Trade,1793,71720,40
+13-01-2025,SKU002,Sports Apparel,India,West,Modern Trade,1866,74640,40
+23-04-2025,SKU024,Casual Sneakers,US,East,Modern Trade,1282,64100,50
+04-11-2025,SKU005,Electronics Accessories,South Africa,North,General Trade,1563,125040,80
+22-06-2025,SKU002,Sports Apparel,South Africa,East,General Trade,1572,110040,70
+13-04-2025,SKU012,Running Shoes,India,North,E-commerce,1352,40560,30
+30-01-2025,SKU023,Backpacks,South Africa,North,General Trade,2148,150360,70
+07-10-2025,SKU032,Electronics Accessories,US,North,General Trade,2131,170480,80
+09-06-2025,SKU049,Running Shoes,US,North,Modern Trade,590,35400,60
+16-05-2025,SKU032,Electronics Accessories,South Africa,North,E-commerce,800,48000,60
+17-11-2025,SKU028,Casual Shoes,South Africa,South,E-commerce,614,36840,60
+14-09-2025,SKU003,Casual Shoes,India,South,E-commerce,1547,92820,60
+29-11-2025,SKU042,Backpacks,Canada,East,Modern Trade,1471,44130,30
+05-10-2025,SKU033,Running Shoes,South Africa,North,General Trade,1149,57450,50
+26-04-2025,SKU028,Casual Shoes,South Africa,East,E-commerce,2443,73290,30
+27-04-2025,SKU050,Casual Shoes,India,West,General Trade,1365,54600,40
+13-04-2025,SKU041,Casual Shoes,Mexico,East,General Trade,2329,163030,70
+21-10-2025,SKU006,Backpacks,Canada,South,E-commerce,1768,106080,60
+22-05-2025,SKU003,Casual Shoes,US,East,General Trade,2947,176820,60
+16-12-2025,SKU025,Backpacks,US,East,General Trade,2684,134200,50
+08-08-2025,SKU008,Casual Shoes,US,North,Modern Trade,1403,42090,30
+05-02-2025,SKU050,Casual Shoes,Mexico,West,General Trade,2336,116800,50
+02-10-2025,SKU030,Electronics Accessories,India,South,Modern Trade,2153,172240,80
+25-07-2025,SKU030,Electronics Accessories,India,West,General Trade,2756,110240,40
+06-04-2025,SKU009,Casual Shoes,US,East,General Trade,2231,89240,40
+18-08-2025,SKU001,Electronics Accessories,US,North,General Trade,1689,135120,80
+19-02-2025,SKU020,Casual Sneakers,Canada,South,E-commerce,2901,145050,50
+19-01-2025,SKU032,Electronics Accessories,Canada,West,General Trade,1136,45440,40
+19-01-2025,SKU046,Backpacks,US,North,Modern Trade,789,39450,50
+20-04-2025,SKU002,Sports Apparel,India,West,General Trade,1824,72960,40
+29-03-2025,SKU035,Casual Shoes,Canada,East,E-commerce,2452,147120,60
+27-10-2025,SKU018,Electronics Accessories,India,South,General Trade,1055,84400,80
+01-10-2025,SKU046,Backpacks,US,North,E-commerce,2295,183600,80
+22-09-2025,SKU005,Electronics Accessories,India,North,E-commerce,675,20250,30
+13-07-2025,SKU010,Running Shoes,Mexico,South,Modern Trade,823,65840,80
+22-11-2025,SKU033,Running Shoes,Canada,South,General Trade,1214,84980,70
+04-07-2025,SKU010,Running Shoes,Mexico,North,General Trade,1316,78960,60
+21-12-2025,SKU046,Backpacks,Mexico,East,General Trade,1176,94080,80
+01-07-2025,SKU001,Electronics Accessories,Mexico,West,Modern Trade,1925,77000,40
+19-07-2025,SKU007,Electronics Accessories,South Africa,East,General Trade,1956,58680,30
+24-08-2025,SKU034,Sports Apparel,US,South,E-commerce,1774,88700,50
+26-02-2025,SKU027,Backpacks,Mexico,West,General Trade,1845,92250,50
+07-10-2025,SKU022,Sports Apparel,South Africa,North,E-commerce,1838,110280,60
+16-02-2025,SKU013,Casual Shoes,Mexico,East,E-commerce,1726,86300,50
+17-09-2025,SKU039,Running Shoes,Canada,West,Modern Trade,1316,105280,80
+11-12-2025,SKU004,Casual Shoes,India,South,Modern Trade,2774,166440,60
+10-08-2025,SKU037,Casual Shoes,Mexico,West,Modern Trade,2746,137300,50
+05-02-2025,SKU004,Casual Shoes,US,South,General Trade,2576,180320,70
+24-01-2025,SKU028,Casual Shoes,India,West,Modern Trade,2386,119300,50
+21-10-2025,SKU039,Running Shoes,Canada,South,Modern Trade,1724,86200,50
+06-09-2025,SKU005,Electronics Accessories,US,South,General Trade,928,64960,70
+14-08-2025,SKU034,Sports Apparel,US,South,E-commerce,949,56940,60
+02-08-2025,SKU034,Sports Apparel,Mexico,West,General Trade,2929,87870,30
+15-04-2025,SKU039,Running Shoes,India,South,E-commerce,2537,126850,50
+28-08-2025,SKU033,Running Shoes,Canada,West,General Trade,2207,154490,70
+25-03-2025,SKU017,Casual Shoes,India,North,E-commerce,1816,108960,60
+27-04-2025,SKU022,Sports Apparel,Canada,West,E-commerce,515,25750,50
+17-11-2025,SKU008,Casual Shoes,South Africa,East,Modern Trade,2607,130350,50
+01-02-2025,SKU033,Running Shoes,US,South,E-commerce,694,55520,80
+13-10-2025,SKU026,Casual Sneakers,Canada,North,General Trade,2734,136700,50
+10-04-2025,SKU022,Sports Apparel,US,South,Modern Trade,2145,107250,50
+03-12-2025,SKU001,Electronics Accessories,Mexico,North,E-commerce,1372,54880,40
+29-08-2025,SKU006,Backpacks,Canada,East,E-commerce,2851,142550,50
+03-10-2025,SKU013,Casual Shoes,Mexico,North,E-commerce,618,24720,40
+11-10-2025,SKU036,Sports Apparel,Mexico,West,E-commerce,2825,84750,30
+27-07-2025,SKU047,Casual Shoes,Mexico,East,E-commerce,2504,100160,40
+03-04-2025,SKU005,Electronics Accessories,India,North,Modern Trade,1021,30630,30
+04-08-2025,SKU042,Backpacks,South Africa,North,E-commerce,1976,98800,50
+10-11-2025,SKU035,Casual Shoes,India,South,General Trade,2694,161640,60
+16-04-2025,SKU047,Casual Shoes,Canada,South,General Trade,2465,147900,60
+19-07-2025,SKU031,Electronics Accessories,India,West,E-commerce,2540,177800,70
+23-04-2025,SKU047,Casual Shoes,Mexico,South,E-commerce,1192,47680,40
+13-09-2025,SKU037,Casual Shoes,South Africa,North,Modern Trade,2335,163450,70
+25-05-2025,SKU025,Backpacks,South Africa,South,Modern Trade,1974,138180,70
+03-02-2025,SKU004,Casual Shoes,Canada,North,Modern Trade,2522,176540,70
+30-07-2025,SKU026,Casual Sneakers,US,East,Modern Trade,626,43820,70
+03-07-2025,SKU048,Backpacks,US,West,E-commerce,1847,147760,80
+29-12-2025,SKU030,Electronics Accessories,US,West,E-commerce,2706,162360,60
+22-04-2025,SKU043,Casual Shoes,US,South,Modern Trade,2104,147280,70
+11-01-2025,SKU016,Sports Apparel,US,North,General Trade,977,29310,30
+27-09-2025,SKU031,Electronics Accessories,US,East,E-commerce,1072,64320,60
+21-12-2025,SKU023,Backpacks,US,North,E-commerce,2031,101550,50
+02-01-2025,SKU002,Sports Apparel,South Africa,North,E-commerce,1688,101280,60
+27-01-2025,SKU012,Running Shoes,US,South,General Trade,789,31560,40
+21-03-2025,SKU009,Casual Shoes,US,East,Modern Trade,2088,104400,50
+08-10-2025,SKU006,Backpacks,India,South,E-commerce,2384,95360,40
+24-01-2025,SKU030,Electronics Accessories,Canada,North,Modern Trade,1610,112700,70
+25-04-2025,SKU012,Running Shoes,Mexico,East,General Trade,1693,67720,40
+17-08-2025,SKU004,Casual Shoes,US,North,Modern Trade,1545,92700,60
+07-05-2025,SKU034,Sports Apparel,US,South,E-commerce,2250,157500,70
+13-09-2025,SKU010,Running Shoes,US,North,Modern Trade,696,48720,70
+09-05-2025,SKU040,Sports Apparel,India,North,E-commerce,2472,148320,60
+30-07-2025,SKU024,Casual Sneakers,Mexico,West,Modern Trade,2657,159420,60
+05-03-2025,SKU049,Running Shoes,US,North,E-commerce,927,55620,60
+10-08-2025,SKU028,Casual Shoes,India,North,Modern Trade,1441,72050,50
+26-12-2025,SKU022,Sports Apparel,South Africa,South,General Trade,1825,109500,60
+23-04-2025,SKU012,Running Shoes,US,West,E-commerce,2601,130050,50
+11-02-2025,SKU008,Casual Shoes,India,East,General Trade,1816,90800,50
+22-08-2025,SKU048,Backpacks,India,South,E-commerce,2965,207550,70
+26-09-2025,SKU033,Running Shoes,Mexico,East,Modern Trade,958,67060,70
+08-06-2025,SKU010,Running Shoes,Mexico,East,Modern Trade,1917,76680,40
+22-10-2025,SKU030,Electronics Accessories,Mexico,East,Modern Trade,2186,65580,30
+29-07-2025,SKU032,Electronics Accessories,Mexico,South,Modern Trade,1560,78000,50
+12-10-2025,SKU032,Electronics Accessories,South Africa,North,E-commerce,919,36760,40
+13-12-2025,SKU017,Casual Shoes,South Africa,West,Modern Trade,865,34600,40
+01-07-2025,SKU013,Casual Shoes,US,North,E-commerce,1275,51000,40
+25-08-2025,SKU032,Electronics Accessories,US,South,Modern Trade,2677,107080,40
+29-10-2025,SKU025,Backpacks,US,South,Modern Trade,2599,103960,40
+19-08-2025,SKU016,Sports Apparel,South Africa,South,General Trade,2820,197400,70
+18-12-2025,SKU050,Casual Shoes,India,West,Modern Trade,938,56280,60
+28-09-2025,SKU026,Casual Sneakers,India,West,General Trade,1847,55410,30
+15-09-2025,SKU040,Sports Apparel,US,North,E-commerce,1039,51950,50
+25-10-2025,SKU046,Backpacks,India,North,Modern Trade,2846,227680,80
+21-02-2025,SKU024,Casual Sneakers,Mexico,West,General Trade,955,38200,40
+23-04-2025,SKU017,Casual Shoes,India,East,Modern Trade,2864,143200,50
+06-01-2025,SKU026,Casual Sneakers,US,North,General Trade,521,31260,60
+19-12-2025,SKU041,Casual Shoes,US,South,General Trade,2977,178620,60
+14-10-2025,SKU034,Sports Apparel,Canada,East,General Trade,2933,87990,30
+09-05-2025,SKU049,Running Shoes,Mexico,North,Modern Trade,2060,123600,60
+09-10-2025,SKU004,Casual Shoes,US,East,E-commerce,2529,75870,30
+25-10-2025,SKU002,Sports Apparel,India,North,E-commerce,1622,64880,40
+24-04-2025,SKU046,Backpacks,US,East,E-commerce,1617,64680,40
+27-05-2025,SKU047,Casual Shoes,Canada,South,Modern Trade,2191,131460,60
+27-07-2025,SKU010,Running Shoes,India,East,General Trade,2331,139860,60
+10-08-2025,SKU041,Casual Shoes,South Africa,South,E-commerce,1240,99200,80
+29-12-2025,SKU042,Backpacks,India,North,E-commerce,639,25560,40
+21-07-2025,SKU012,Running Shoes,South Africa,East,General Trade,2273,136380,60
+13-05-2025,SKU043,Casual Shoes,South Africa,West,E-commerce,1879,56370,30
+23-01-2025,SKU027,Backpacks,Mexico,West,General Trade,1704,51120,30
+03-03-2025,SKU036,Sports Apparel,India,South,E-commerce,726,43560,60
+19-09-2025,SKU045,Casual Sneakers,US,North,General Trade,689,34450,50
+17-07-2025,SKU045,Casual Sneakers,Mexico,East,Modern Trade,2996,179760,60
+13-04-2025,SKU021,Electronics Accessories,India,East,Modern Trade,974,29220,30
+25-04-2025,SKU025,Backpacks,US,West,E-commerce,2544,203520,80
+01-09-2025,SKU014,Sports Apparel,Mexico,East,Modern Trade,2789,223120,80
+10-11-2025,SKU001,Electronics Accessories,India,West,E-commerce,1984,99200,50
+06-06-2025,SKU030,Electronics Accessories,India,North,Modern Trade,2405,144300,60
+10-08-2025,SKU034,Sports Apparel,Mexico,East,General Trade,2164,108200,50
+17-06-2025,SKU001,Electronics Accessories,US,North,Modern Trade,1865,111900,60
+22-12-2025,SKU023,Backpacks,Mexico,West,General Trade,1055,84400,80
+14-06-2025,SKU032,Electronics Accessories,Canada,East,E-commerce,1744,122080,70
+23-02-2025,SKU025,Backpacks,South Africa,South,Modern Trade,2871,86130,30
+14-12-2025,SKU014,Sports Apparel,South Africa,East,Modern Trade,1365,95550,70
+13-09-2025,SKU026,Casual Sneakers,Mexico,West,General Trade,1849,92450,50
+10-09-2025,SKU046,Backpacks,US,West,Modern Trade,2795,195650,70
+30-12-2025,SKU046,Backpacks,India,South,Modern Trade,2374,166180,70
+27-09-2025,SKU033,Running Shoes,India,South,General Trade,2757,192990,70
+29-11-2025,SKU050,Casual Shoes,Mexico,East,Modern Trade,1190,47600,40
+19-07-2025,SKU017,Casual Shoes,India,West,Modern Trade,1570,125600,80
+24-03-2025,SKU031,Electronics Accessories,Mexico,North,Modern Trade,1767,70680,40
+11-06-2025,SKU022,Sports Apparel,India,West,E-commerce,1775,124250,70
+22-03-2025,SKU011,Casual Shoes,India,East,E-commerce,2818,140900,50
+12-02-2025,SKU041,Casual Shoes,India,South,Modern Trade,2838,198660,70
+31-08-2025,SKU043,Casual Shoes,India,West,Modern Trade,2890,115600,40
+06-03-2025,SKU032,Electronics Accessories,India,North,E-commerce,810,32400,40
+20-06-2025,SKU022,Sports Apparel,India,North,Modern Trade,1616,113120,70
+09-07-2025,SKU035,Casual Shoes,South Africa,West,General Trade,2480,173600,70
+02-12-2025,SKU027,Backpacks,Canada,South,E-commerce,569,22760,40
+26-01-2025,SKU036,Sports Apparel,US,North,E-commerce,1504,60160,40
+08-10-2025,SKU023,Backpacks,US,East,General Trade,2838,141900,50
+20-02-2025,SKU003,Casual Shoes,South Africa,South,General Trade,1182,35460,30
+20-08-2025,SKU021,Electronics Accessories,Mexico,South,General Trade,753,60240,80
+20-11-2025,SKU007,Electronics Accessories,Mexico,South,E-commerce,1850,148000,80
+18-01-2025,SKU041,Casual Shoes,US,East,Modern Trade,2915,233200,80
+13-03-2025,SKU015,Electronics Accessories,US,South,General Trade,2285,68550,30
+11-09-2025,SKU015,Electronics Accessories,US,North,General Trade,1813,145040,80
+15-03-2025,SKU022,Sports Apparel,Mexico,North,Modern Trade,1824,72960,40
+06-04-2025,SKU003,Casual Shoes,Mexico,South,Modern Trade,2655,212400,80
+03-12-2025,SKU050,Casual Shoes,India,East,General Trade,1303,52120,40
+11-12-2025,SKU018,Electronics Accessories,Canada,West,General Trade,2571,77130,30
+21-01-2025,SKU045,Casual Sneakers,India,East,General Trade,993,29790,30
+16-02-2025,SKU007,Electronics Accessories,US,South,General Trade,2210,66300,30
+21-04-2025,SKU042,Backpacks,Mexico,East,Modern Trade,2795,195650,70
+23-02-2025,SKU011,Casual Shoes,India,North,E-commerce,1512,45360,30
+19-11-2025,SKU049,Running Shoes,India,North,Modern Trade,2726,218080,80
+20-03-2025,SKU039,Running Shoes,US,East,General Trade,1497,74850,50
+22-02-2025,SKU004,Casual Shoes,Mexico,South,Modern Trade,2634,184380,70
+20-03-2025,SKU040,Sports Apparel,Canada,North,E-commerce,1307,104560,80
+10-02-2025,SKU041,Casual Shoes,Mexico,West,Modern Trade,1662,83100,50
+11-11-2025,SKU043,Casual Shoes,India,East,Modern Trade,2249,112450,50
+20-07-2025,SKU026,Casual Sneakers,US,South,Modern Trade,1323,66150,50
+14-11-2025,SKU043,Casual Shoes,US,East,Modern Trade,1901,114060,60
+12-12-2025,SKU036,Sports Apparel,Mexico,East,Modern Trade,2007,140490,70
+10-04-2025,SKU026,Casual Sneakers,South Africa,South,Modern Trade,1561,62440,40
+11-08-2025,SKU003,Casual Shoes,Mexico,South,General Trade,1590,127200,80
+12-08-2025,SKU036,Sports Apparel,US,East,Modern Trade,2299,91960,40
+26-09-2025,SKU024,Casual Sneakers,India,South,E-commerce,944,75520,80
+12-01-2025,SKU028,Casual Shoes,US,East,E-commerce,2665,186550,70
+13-07-2025,SKU046,Backpacks,Canada,East,General Trade,1154,69240,60
+13-01-2025,SKU038,Running Shoes,India,North,Modern Trade,2294,183520,80
+25-06-2025,SKU033,Running Shoes,Italy,West,General Trade,814,40700,50
+19-11-2025,SKU006,Backpacks,Canada,East,Modern Trade,1695,84750,50
+09-04-2025,SKU006,Backpacks,US,South,General Trade,673,33650,50
+26-04-2025,SKU025,Backpacks,US,North,Modern Trade,1313,78780,60
+12-03-2025,SKU039,Running Shoes,Canada,West,General Trade,663,39780,60
+15-03-2025,SKU015,Electronics Accessories,Mexico,West,E-commerce,601,30050,50
+21-06-2025,SKU040,Sports Apparel,Mexico,East,E-commerce,2272,136320,60
+06-09-2025,SKU025,Backpacks,Mexico,South,E-commerce,597,17910,30
+26-01-2025,SKU043,Casual Shoes,US,East,General Trade,1751,70040,40
+12-05-2025,SKU021,Electronics Accessories,Mexico,East,General Trade,1558,46740,30
+29-11-2025,SKU044,Electronics Accessories,India,North,General Trade,914,27420,30
+06-09-2025,SKU050,Casual Shoes,Canada,North,Modern Trade,2155,129300,60
+30-12-2025,SKU036,Sports Apparel,Mexico,East,Modern Trade,2196,65880,30
+16-12-2025,SKU015,Electronics Accessories,India,West,Modern Trade,1818,54540,30
+23-01-2025,SKU009,Casual Shoes,Canada,West,Modern Trade,530,26500,50
+13-08-2025,SKU001,Electronics Accessories,US,West,E-commerce,1849,55470,30
+28-06-2025,SKU010,Running Shoes,Mexico,West,General Trade,2257,157990,70
+30-07-2025,SKU005,Electronics Accessories,India,North,General Trade,2370,142200,60
+15-06-2025,SKU013,Casual Shoes,Canada,East,General Trade,2864,200480,70
+17-09-2025,SKU001,Electronics Accessories,Mexico,East,General Trade,2238,89520,40
+02-12-2025,SKU027,Backpacks,Mexico,East,E-commerce,2345,140700,60
+19-01-2025,SKU001,Electronics Accessories,Canada,North,Modern Trade,1750,52500,30
+26-02-2025,SKU020,Casual Sneakers,India,East,Modern Trade,823,65840,80
+26-04-2025,SKU037,Casual Shoes,India,West,Modern Trade,587,46960,80
+27-04-2025,SKU002,Sports Apparel,Mexico,North,E-commerce,2246,67380,30
+01-10-2025,SKU008,Casual Shoes,US,West,General Trade,2680,187600,70
+04-01-2025,SKU047,Casual Shoes,Italy,West,Modern Trade,1686,84300,50
+18-10-2025,SKU007,Electronics Accessories,Mexico,East,General Trade,628,50240,80
+11-07-2025,SKU002,Sports Apparel,India,North,Modern Trade,830,49800,60
+21-05-2025,SKU029,Running Shoes,Mexico,North,General Trade,1763,70520,40
+27-02-2025,SKU040,Sports Apparel,India,East,E-commerce,1885,75400,40
+29-12-2025,SKU024,Casual Sneakers,Mexico,South,General Trade,2096,125760,60
+22-09-2025,SKU035,Casual Shoes,US,North,E-commerce,2293,137580,60
+22-02-2025,SKU047,Casual Shoes,India,West,Modern Trade,1588,79400,50
+02-09-2025,SKU015,Electronics Accessories,India,West,E-commerce,2022,101100,50
+03-05-2025,SKU010,Running Shoes,US,West,E-commerce,2675,187250,70
+08-01-2025,SKU024,Casual Sneakers,Mexico,East,Modern Trade,2709,216720,80
+21-08-2025,SKU044,Electronics Accessories,Canada,East,E-commerce,2535,152100,60
+12-09-2025,SKU032,Electronics Accessories,Italy,North,Modern Trade,1854,129780,70
+22-08-2025,SKU022,Sports Apparel,India,East,Modern Trade,2008,60240,30
+08-10-2025,SKU019,Electronics Accessories,India,South,Modern Trade,2258,90320,40
+30-12-2025,SKU001,Electronics Accessories,Canada,South,E-commerce,1743,87150,50
+27-12-2025,SKU033,Running Shoes,US,East,General Trade,2693,161580,60
+23-03-2025,SKU024,Casual Sneakers,US,East,Modern Trade,1235,61750,50
+09-10-2025,SKU029,Running Shoes,Mexico,West,General Trade,1052,52600,50
+24-06-2025,SKU043,Casual Shoes,Canada,West,Modern Trade,689,41340,60
+15-12-2025,SKU014,Sports Apparel,Mexico,West,Modern Trade,2837,226960,80
+29-09-2025,SKU003,Casual Shoes,Mexico,West,E-commerce,1440,100800,70
+09-02-2025,SKU041,Casual Shoes,India,South,E-commerce,884,53040,60
+18-11-2025,SKU018,Electronics Accessories,Italy,West,General Trade,818,40900,50
+11-08-2025,SKU022,Sports Apparel,US,South,E-commerce,2568,102720,40
+05-02-2025,SKU017,Casual Shoes,Mexico,South,General Trade,2143,64290,30
+10-07-2025,SKU038,Running Shoes,India,West,General Trade,845,42250,50
+15-06-2025,SKU044,Electronics Accessories,India,East,General Trade,2884,144200,50
+23-04-2025,SKU023,Backpacks,India,South,E-commerce,613,36780,60
+21-05-2025,SKU041,Casual Shoes,Canada,North,General Trade,2297,137820,60
+22-06-2025,SKU013,Casual Shoes,US,North,General Trade,2124,169920,80
+14-01-2025,SKU042,Backpacks,India,North,E-commerce,2869,114760,40
+13-02-2025,SKU009,Casual Shoes,US,West,E-commerce,2709,81270,30
+08-08-2025,SKU030,Electronics Accessories,India,East,E-commerce,2063,61890,30
+03-12-2025,SKU007,Electronics Accessories,US,West,Modern Trade,874,34960,40
+12-02-2025,SKU005,Electronics Accessories,Canada,North,Modern Trade,933,74640,80
+10-07-2025,SKU040,Sports Apparel,Italy,North,E-commerce,1900,95000,50
+03-08-2025,SKU041,Casual Shoes,India,East,E-commerce,780,54600,70
+17-01-2025,SKU037,Casual Shoes,US,East,E-commerce,1583,79150,50
+31-12-2025,SKU042,Backpacks,Canada,North,Modern Trade,2874,114960,40
+26-07-2025,SKU025,Backpacks,Mexico,East,Modern Trade,2641,184870,70
+17-10-2025,SKU034,Sports Apparel,Mexico,South,General Trade,2562,76860,30
+20-06-2025,SKU011,Casual Shoes,Canada,East,General Trade,2388,143280,60
+09-11-2025,SKU001,Electronics Accessories,Italy,South,Modern Trade,2099,146930,70
+28-04-2025,SKU029,Running Shoes,India,North,Modern Trade,2366,118300,50
+06-06-2025,SKU047,Casual Shoes,US,North,Modern Trade,772,30880,40
+24-03-2025,SKU024,Casual Sneakers,Mexico,South,E-commerce,1463,87780,60
+02-12-2025,SKU050,Casual Shoes,US,North,E-commerce,1469,44070,30
+27-11-2025,SKU013,Casual Shoes,India,West,General Trade,1886,132020,70
+19-05-2025,SKU032,Electronics Accessories,Mexico,South,E-commerce,1955,117300,60
+19-05-2025,SKU010,Running Shoes,Italy,North,E-commerce,2314,161980,70
+31-12-2025,SKU009,Casual Shoes,Canada,East,Modern Trade,725,29000,40
+16-01-2025,SKU007,Electronics Accessories,Mexico,South,E-commerce,1889,113340,60
+23-10-2025,SKU033,Running Shoes,Italy,East,Modern Trade,1092,54600,50
+15-08-2025,SKU017,Casual Shoes,India,East,General Trade,1281,64050,50
+03-04-2025,SKU017,Casual Shoes,India,North,E-commerce,1108,33240,30
+05-12-2025,SKU016,Sports Apparel,US,West,E-commerce,1947,136290,70
+13-07-2025,SKU049,Running Shoes,India,East,E-commerce,1176,70560,60
+30-01-2025,SKU003,Casual Shoes,Italy,South,General Trade,1236,74160,60
+20-09-2025,SKU008,Casual Shoes,Canada,North,E-commerce,1807,54210,30
+27-01-2025,SKU013,Casual Shoes,Mexico,South,Modern Trade,2180,130800,60
+07-11-2025,SKU050,Casual Shoes,Canada,South,Modern Trade,1491,44730,30
+11-11-2025,SKU020,Casual Sneakers,Italy,East,General Trade,2267,158690,70
+10-05-2025,SKU015,Electronics Accessories,Mexico,South,Modern Trade,821,49260,60
+16-07-2025,SKU021,Electronics Accessories,India,North,General Trade,2924,146200,50
+21-07-2025,SKU036,Sports Apparel,India,West,E-commerce,1295,38850,30
+26-06-2025,SKU023,Backpacks,Italy,East,E-commerce,1411,70550,50
+01-01-2025,SKU020,Casual Sneakers,India,North,Modern Trade,2510,200800,80
+14-02-2025,SKU012,Running Shoes,Italy,East,E-commerce,686,20580,30
+05-01-2025,SKU015,Electronics Accessories,Italy,South,Modern Trade,1994,159520,80
+11-05-2025,SKU019,Electronics Accessories,Canada,North,E-commerce,2137,106850,50
+02-11-2025,SKU018,Electronics Accessories,US,South,General Trade,1119,89520,80
+31-01-2025,SKU039,Running Shoes,India,South,E-commerce,2028,141960,70
+08-05-2025,SKU028,Casual Shoes,Mexico,South,General Trade,1224,73440,60
+15-09-2025,SKU015,Electronics Accessories,Mexico,West,Modern Trade,2735,82050,30
+13-11-2025,SKU005,Electronics Accessories,Mexico,North,E-commerce,555,44400,80
+19-08-2025,SKU011,Casual Shoes,Mexico,North,General Trade,649,45430,70
+21-02-2025,SKU006,Backpacks,Italy,West,General Trade,1540,77000,50
+06-11-2025,SKU002,Sports Apparel,US,West,General Trade,745,44700,60
+03-07-2025,SKU043,Casual Shoes,India,East,Modern Trade,2905,145250,50
+25-01-2025,SKU007,Electronics Accessories,US,North,Modern Trade,637,19110,30
+12-04-2025,SKU008,Casual Shoes,Mexico,West,General Trade,795,39750,50
+21-05-2025,SKU010,Running Shoes,US,South,E-commerce,1752,105120,60
+10-07-2025,SKU016,Sports Apparel,Canada,West,Modern Trade,726,50820,70
+18-06-2025,SKU031,Electronics Accessories,US,West,E-commerce,1370,95900,70
+03-10-2025,SKU010,Running Shoes,Mexico,North,Modern Trade,2873,172380,60
+16-03-2025,SKU036,Sports Apparel,India,East,E-commerce,1890,56700,30
+13-04-2025,SKU037,Casual Shoes,Mexico,East,General Trade,721,36050,50
+25-09-2025,SKU005,Electronics Accessories,Italy,West,Modern Trade,1863,130410,70
+15-09-2025,SKU036,Sports Apparel,Canada,East,General Trade,2477,198160,80
+21-07-2025,SKU034,Sports Apparel,US,East,E-commerce,1883,150640,80
+31-03-2025,SKU008,Casual Shoes,US,South,General Trade,2295,160650,70
+23-10-2025,SKU004,Casual Shoes,Italy,East,General Trade,1346,67300,50
+10-05-2025,SKU005,Electronics Accessories,India,East,Modern Trade,2527,151620,60
+03-10-2025,SKU032,Electronics Accessories,India,East,Modern Trade,614,30700,50
+12-11-2025,SKU002,Sports Apparel,Italy,North,Modern Trade,1156,69360,60
+07-07-2025,SKU013,Casual Shoes,Mexico,South,Modern Trade,2936,176160,60
+06-09-2025,SKU007,Electronics Accessories,US,South,Modern Trade,2708,135400,50
+24-07-2025,SKU009,Casual Shoes,India,East,Modern Trade,1292,51680,40
+05-11-2025,SKU050,Casual Shoes,Italy,West,Modern Trade,625,25000,40
+22-09-2025,SKU008,Casual Shoes,Italy,North,E-commerce,589,17670,30
+03-08-2025,SKU049,Running Shoes,India,West,Modern Trade,1992,119520,60
+09-06-2025,SKU030,Electronics Accessories,India,South,General Trade,811,64880,80
+15-05-2025,SKU014,Sports Apparel,Canada,West,General Trade,1508,45240,30
+09-08-2025,SKU016,Sports Apparel,US,South,E-commerce,1333,79980,60
+14-02-2025,SKU020,Casual Sneakers,Mexico,East,General Trade,1767,141360,80
+25-11-2025,SKU035,Casual Shoes,Canada,South,General Trade,2147,128820,60
+19-12-2025,SKU044,Electronics Accessories,India,West,E-commerce,643,38580,60
+27-04-2025,SKU001,Electronics Accessories,Mexico,West,Modern Trade,2988,179280,60
+19-10-2025,SKU044,Electronics Accessories,India,West,E-commerce,560,16800,30
+21-02-2025,SKU022,Sports Apparel,Italy,East,E-commerce,798,63840,80
+02-02-2025,SKU050,Casual Shoes,US,South,General Trade,728,36400,50
+24-11-2025,SKU028,Casual Shoes,Mexico,East,General Trade,2360,141600,60
+04-01-2025,SKU024,Casual Sneakers,US,South,E-commerce,2159,86360,40
+30-07-2025,SKU037,Casual Shoes,US,West,General Trade,2538,152280,60
+09-11-2025,SKU027,Backpacks,US,East,E-commerce,656,52480,80
+04-08-2025,SKU041,Casual Shoes,US,South,Modern Trade,2803,112120,40
+19-02-2025,SKU009,Casual Shoes,Germany,North,General Trade,2473,123650,50
+21-05-2025,SKU022,Sports Apparel,India,East,General Trade,1405,56200,40
+16-10-2025,SKU013,Casual Shoes,US,North,General Trade,2686,161160,60
+06-08-2025,SKU046,Backpacks,Germany,South,E-commerce,1254,50160,40
+09-10-2025,SKU018,Electronics Accessories,Mexico,West,E-commerce,1072,32160,30
+23-01-2025,SKU046,Backpacks,India,West,Modern Trade,1481,74050,50
+24-07-2025,SKU044,Electronics Accessories,Canada,East,Modern Trade,1501,75050,50
+25-03-2025,SKU045,Casual Sneakers,Germany,East,E-commerce,718,28720,40
+09-11-2025,SKU011,Casual Shoes,US,East,Modern Trade,1395,69750,50
+09-01-2025,SKU019,Electronics Accessories,Germany,West,Modern Trade,2161,129660,60
+30-05-2025,SKU031,Electronics Accessories,India,South,E-commerce,1537,76850,50
+11-06-2025,SKU028,Casual Shoes,India,South,General Trade,2056,102800,50
+26-03-2025,SKU025,Backpacks,Canada,East,General Trade,935,56100,60
+22-01-2025,SKU046,Backpacks,Canada,North,Modern Trade,2629,105160,40
+09-05-2025,SKU040,Sports Apparel,Mexico,South,General Trade,1477,59080,40
+05-11-2025,SKU009,Casual Shoes,US,North,E-commerce,2071,144970,70
+09-08-2025,SKU004,Casual Shoes,Mexico,West,E-commerce,2463,172410,70
+17-10-2025,SKU010,Running Shoes,Mexico,West,General Trade,1740,52200,30
+16-08-2025,SKU026,Casual Sneakers,US,East,Modern Trade,1186,83020,70
+06-12-2025,SKU030,Electronics Accessories,India,North,E-commerce,2543,76290,30
+09-02-2025,SKU050,Casual Shoes,Mexico,West,E-commerce,2806,112240,40
+19-03-2025,SKU048,Backpacks,India,West,General Trade,2948,117920,40
+03-04-2025,SKU019,Electronics Accessories,Canada,East,Modern Trade,2413,144780,60
+03-07-2025,SKU011,Casual Shoes,India,West,E-commerce,1662,49860,30
+20-07-2025,SKU028,Casual Shoes,Canada,West,E-commerce,1033,41320,40
+25-11-2025,SKU020,Casual Sneakers,US,South,General Trade,2662,186340,70
+09-07-2025,SKU013,Casual Shoes,Mexico,West,General Trade,1106,33180,30
+27-04-2025,SKU012,Running Shoes,Mexico,North,E-commerce,2747,192290,70
+13-03-2025,SKU005,Electronics Accessories,Canada,North,General Trade,2033,81320,40
+06-07-2025,SKU046,Backpacks,US,South,General Trade,2982,178920,60
+09-12-2025,SKU038,Running Shoes,Mexico,North,General Trade,1672,133760,80
+22-09-2025,SKU035,Casual Shoes,India,West,Modern Trade,770,61600,80
+10-12-2025,SKU037,Casual Shoes,India,South,General Trade,2646,132300,50
+10-09-2025,SKU037,Casual Shoes,Mexico,East,Modern Trade,2703,81090,30
+06-06-2025,SKU018,Electronics Accessories,India,South,E-commerce,2037,122220,60
+20-01-2025,SKU048,Backpacks,US,East,E-commerce,2231,66930,30
+10-12-2025,SKU047,Casual Shoes,US,East,Modern Trade,1646,65840,40
+22-12-2025,SKU010,Running Shoes,India,North,Modern Trade,730,29200,40
+07-06-2025,SKU009,Casual Shoes,Germany,North,E-commerce,2477,148620,60
+06-05-2025,SKU018,Electronics Accessories,India,West,Modern Trade,1899,75960,40
+04-05-2025,SKU029,Running Shoes,India,North,Modern Trade,2941,235280,80
+08-12-2025,SKU022,Sports Apparel,US,West,Modern Trade,2910,116400,40
+06-03-2025,SKU004,Casual Shoes,India,North,General Trade,1268,101440,80
+22-09-2025,SKU023,Backpacks,US,South,General Trade,906,63420,70
+10-03-2025,SKU030,Electronics Accessories,US,West,General Trade,2388,95520,40
+01-07-2025,SKU020,Casual Sneakers,US,West,General Trade,2830,198100,70
+26-05-2025,SKU015,Electronics Accessories,US,North,E-commerce,1318,39540,30
+08-12-2025,SKU002,Sports Apparel,India,North,General Trade,2088,104400,50
+15-10-2025,SKU036,Sports Apparel,India,North,General Trade,2984,89520,30
+12-08-2025,SKU023,Backpacks,Germany,West,E-commerce,1845,129150,70
+10-03-2025,SKU012,Running Shoes,Mexico,South,General Trade,1765,123550,70
+26-08-2025,SKU008,Casual Shoes,Germany,West,General Trade,2601,208080,80
+08-12-2025,SKU020,Casual Sneakers,Mexico,West,General Trade,891,35640,40
+04-03-2025,SKU044,Electronics Accessories,Mexico,South,General Trade,715,42900,60
+10-05-2025,SKU005,Electronics Accessories,Germany,North,General Trade,2673,133650,50
+05-02-2025,SKU048,Backpacks,US,South,E-commerce,1740,104400,60
+10-09-2025,SKU002,Sports Apparel,India,West,Modern Trade,1256,75360,60
+19-02-2025,SKU036,Sports Apparel,India,East,Modern Trade,1362,68100,50
+06-03-2025,SKU025,Backpacks,US,South,General Trade,2050,123000,60
+22-01-2025,SKU036,Sports Apparel,US,West,General Trade,2497,74910,30
+04-08-2025,SKU023,Backpacks,India,South,E-commerce,1176,35280,30
+14-02-2025,SKU025,Backpacks,US,North,Modern Trade,2918,116720,40
+19-11-2025,SKU009,Casual Shoes,Mexico,North,Modern Trade,1652,66080,40
+27-06-2025,SKU004,Casual Shoes,US,South,General Trade,1827,73080,40
+16-07-2025,SKU002,Sports Apparel,Canada,West,Modern Trade,1260,100800,80
+31-03-2025,SKU037,Casual Shoes,Germany,East,E-commerce,2146,85840,40
+03-09-2025,SKU027,Backpacks,Germany,East,General Trade,2101,84040,40
+31-07-2025,SKU035,Casual Shoes,India,South,E-commerce,2871,229680,80
+29-12-2025,SKU012,Running Shoes,India,South,Modern Trade,790,23700,30
+23-10-2025,SKU038,Running Shoes,Germany,East,Modern Trade,1888,151040,80
+07-04-2025,SKU001,Electronics Accessories,US,West,E-commerce,2979,208530,70
+30-09-2025,SKU006,Backpacks,Canada,West,General Trade,2735,218800,80
+29-08-2025,SKU035,Casual Shoes,Mexico,South,General Trade,661,39660,60
+25-09-2025,SKU014,Sports Apparel,Germany,South,E-commerce,2702,216160,80
+30-06-2025,SKU005,Electronics Accessories,Mexico,South,Modern Trade,2954,236320,80
+20-11-2025,SKU038,Running Shoes,Canada,East,Modern Trade,2683,80490,30
+12-10-2025,SKU011,Casual Shoes,US,North,General Trade,1415,56600,40
+14-12-2025,SKU002,Sports Apparel,Mexico,East,Modern Trade,623,18690,30
+09-02-2025,SKU030,Electronics Accessories,Canada,East,Modern Trade,1228,49120,40
+26-02-2025,SKU037,Casual Shoes,Germany,South,Modern Trade,1729,69160,40
+03-11-2025,SKU031,Electronics Accessories,US,North,General Trade,949,56940,60
+11-12-2025,SKU009,Casual Shoes,India,South,Modern Trade,2335,93400,40
+25-06-2025,SKU009,Casual Shoes,US,West,E-commerce,2215,110750,50
+24-08-2025,SKU019,Electronics Accessories,Mexico,East,General Trade,2927,175620,60
+02-05-2025,SKU016,Sports Apparel,Mexico,West,E-commerce,931,46550,50
+25-03-2025,SKU011,Casual Shoes,US,North,E-commerce,2848,85440,30
+12-08-2025,SKU029,Running Shoes,India,East,Modern Trade,1778,53340,30
+08-02-2025,SKU027,Backpacks,India,North,Modern Trade,1336,66800,50
+10-10-2025,SKU022,Sports Apparel,India,South,Modern Trade,2976,148800,50
+02-11-2025,SKU048,Backpacks,Canada,East,E-commerce,1540,92400,60
+24-09-2025,SKU015,Electronics Accessories,Germany,East,E-commerce,2486,124300,50
+12-12-2025,SKU045,Casual Sneakers,India,East,General Trade,2217,66510,30
+16-09-2025,SKU035,Casual Shoes,Mexico,East,E-commerce,596,17880,30
+18-12-2025,SKU018,Electronics Accessories,Mexico,South,Modern Trade,1526,91560,60
+06-05-2025,SKU035,Casual Shoes,US,West,Modern Trade,2896,231680,80
+28-01-2025,SKU013,Casual Shoes,India,South,E-commerce,2774,83220,30
+14-02-2025,SKU029,Running Shoes,Mexico,North,General Trade,2241,112050,50
+15-01-2025,SKU040,Sports Apparel,India,West,Modern Trade,1186,35580,30
+15-12-2025,SKU036,Sports Apparel,Canada,South,General Trade,2674,80220,30
+23-01-2025,SKU019,Electronics Accessories,Germany,West,E-commerce,2286,160020,70
+29-09-2025,SKU001,Electronics Accessories,US,East,E-commerce,933,37320,40
+24-04-2025,SKU001,Electronics Accessories,Mexico,North,E-commerce,2585,77550,30
+13-03-2025,SKU043,Casual Shoes,US,West,Modern Trade,1078,43120,40
+28-04-2025,SKU031,Electronics Accessories,Germany,North,Modern Trade,2415,169050,70
+13-04-2025,SKU006,Backpacks,India,East,E-commerce,2623,157380,60
+05-02-2025,SKU044,Electronics Accessories,India,South,Modern Trade,2724,163440,60
+02-12-2025,SKU046,Backpacks,Germany,West,Modern Trade,973,29190,30
+12-07-2025,SKU006,Backpacks,Mexico,West,General Trade,2180,109000,50
+11-12-2025,SKU002,Sports Apparel,India,West,Modern Trade,1344,67200,50
+24-06-2025,SKU035,Casual Shoes,Mexico,West,Modern Trade,2504,100160,40
+07-03-2025,SKU046,Backpacks,Mexico,North,General Trade,1056,31680,30
+24-07-2025,SKU032,Electronics Accessories,Mexico,West,E-commerce,1668,100080,60
+10-10-2025,SKU049,Running Shoes,Canada,West,E-commerce,646,25840,40
+01-10-2025,SKU034,Sports Apparel,Mexico,North,Modern Trade,878,52680,60
+25-03-2025,SKU039,Running Shoes,US,South,Modern Trade,1796,89800,50
+01-03-2025,SKU042,Backpacks,US,East,E-commerce,2924,204680,70
+22-05-2025,SKU048,Backpacks,Germany,North,Modern Trade,776,62080,80
+06-04-2025,SKU023,Backpacks,India,South,Modern Trade,977,29310,30
+15-06-2025,SKU024,Casual Sneakers,Mexico,North,E-commerce,1008,70560,70
+07-01-2025,SKU009,Casual Shoes,US,South,General Trade,1309,39270,30
+25-02-2025,SKU017,Casual Shoes,Canada,West,General Trade,2779,166740,60
+07-12-2025,SKU027,Backpacks,India,South,General Trade,2148,150360,70
+27-06-2025,SKU008,Casual Shoes,Canada,West,E-commerce,1484,44520,30
+16-11-2025,SKU009,Casual Shoes,India,West,E-commerce,2339,140340,60
+10-01-2025,SKU043,Casual Shoes,India,South,General Trade,1787,53610,30
+11-10-2025,SKU006,Backpacks,US,West,General Trade,531,42480,80
+21-05-2025,SKU024,Casual Sneakers,US,South,General Trade,789,31560,40
+25-05-2025,SKU008,Casual Shoes,Mexico,North,E-commerce,1755,105300,60
+10-02-2025,SKU020,Casual Sneakers,Canada,North,Modern Trade,951,57060,60
+20-05-2025,SKU028,Casual Shoes,Mexico,North,General Trade,2279,182320,80
+28-06-2025,SKU026,Casual Sneakers,Mexico,North,General Trade,528,26400,50
+04-02-2025,SKU049,Running Shoes,India,West,Modern Trade,714,21420,30
+10-08-2025,SKU007,Electronics Accessories,Germany,South,General Trade,2549,178430,70
+21-12-2025,SKU041,Casual Shoes,Germany,West,E-commerce,2481,198480,80
+25-08-2025,SKU047,Casual Shoes,US,East,Modern Trade,2784,139200,50
+04-12-2025,SKU034,Sports Apparel,US,West,General Trade,1391,111280,80
+31-01-2025,SKU040,Sports Apparel,Mexico,North,General Trade,2726,136300,50
+22-03-2025,SKU026,Casual Sneakers,Mexico,East,E-commerce,1213,48520,40
+10-04-2025,SKU028,Casual Shoes,Canada,South,General Trade,620,31000,50
+23-10-2025,SKU013,Casual Shoes,Mexico,North,Modern Trade,1932,96600,50
+26-10-2025,SKU027,Backpacks,US,East,E-commerce,597,29850,50
+27-08-2025,SKU016,Sports Apparel,US,South,General Trade,884,26520,30
+29-11-2025,SKU023,Backpacks,US,North,E-commerce,2612,208960,80
+26-06-2025,SKU035,Casual Shoes,Germany,West,Modern Trade,885,26550,30
+07-10-2025,SKU009,Casual Shoes,US,South,E-commerce,1198,83860,70
+23-12-2025,SKU020,Casual Sneakers,India,West,E-commerce,1397,55880,40
+01-02-2025,SKU046,Backpacks,India,West,Modern Trade,2693,188510,70
+18-12-2025,SKU047,Casual Shoes,US,East,Modern Trade,1767,53010,30
+06-03-2025,SKU044,Electronics Accessories,Canada,East,General Trade,1840,110400,60
+10-06-2025,SKU032,Electronics Accessories,Mexico,South,E-commerce,679,54320,80
+24-03-2025,SKU034,Sports Apparel,India,North,General Trade,1897,94850,50
+10-03-2025,SKU011,Casual Shoes,US,West,General Trade,528,36960,70
+07-02-2025,SKU002,Sports Apparel,US,North,E-commerce,915,36600,40
+02-06-2025,SKU007,Electronics Accessories,US,South,General Trade,1338,93660,70
+16-12-2025,SKU034,Sports Apparel,India,East,E-commerce,2472,74160,30
+06-07-2025,SKU041,Casual Shoes,Mexico,North,General Trade,1251,87570,70
+31-12-2025,SKU049,Running Shoes,India,North,E-commerce,2969,207830,70
+23-12-2025,SKU041,Casual Shoes,Canada,East,Modern Trade,2639,158340,60
+18-02-2025,SKU019,Electronics Accessories,US,East,General Trade,931,65170,70
+21-12-2025,SKU040,Sports Apparel,Germany,West,General Trade,1884,131880,70
+08-03-2025,SKU036,Sports Apparel,Mexico,South,General Trade,1773,124110,70
+29-06-2025,SKU003,Casual Shoes,India,East,General Trade,503,20120,40
+13-02-2025,SKU021,Electronics Accessories,Germany,North,Modern Trade,2177,174160,80
+01-12-2025,SKU015,Electronics Accessories,India,South,Modern Trade,1574,62960,40
+12-07-2025,SKU048,Backpacks,Mexico,East,E-commerce,2368,142080,60
+26-09-2025,SKU018,Electronics Accessories,Mexico,South,E-commerce,1238,86660,70
+30-09-2025,SKU002,Sports Apparel,US,North,General Trade,1656,115920,70
+14-03-2025,SKU039,Running Shoes,India,North,E-commerce,2254,135240,60
+26-04-2025,SKU046,Backpacks,Mexico,East,Modern Trade,1811,144880,80
+22-07-2025,SKU038,Running Shoes,Mexico,East,E-commerce,625,37500,60
+22-12-2025,SKU040,Sports Apparel,India,South,E-commerce,838,41900,50
+17-03-2025,SKU019,Electronics Accessories,India,South,Modern Trade,1121,89680,80
+20-06-2025,SKU003,Casual Shoes,Mexico,North,General Trade,2053,143710,70
+30-09-2025,SKU050,Casual Shoes,Canada,North,General Trade,1118,89440,80
+29-11-2025,SKU023,Backpacks,US,North,E-commerce,1705,136400,80
+14-02-2025,SKU028,Casual Shoes,US,East,Modern Trade,1213,84910,70
+20-06-2025,SKU034,Sports Apparel,Germany,North,General Trade,2978,148900,50
+21-06-2025,SKU027,Backpacks,Germany,North,E-commerce,615,49200,80
+27-06-2025,SKU012,Running Shoes,US,North,Modern Trade,2002,140140,70
+04-06-2025,SKU037,Casual Shoes,US,West,E-commerce,1315,52600,40
+16-06-2025,SKU019,Electronics Accessories,Germany,West,Modern Trade,924,27720,30
+26-10-2025,SKU006,Backpacks,US,North,General Trade,945,56700,60
+17-09-2025,SKU046,Backpacks,India,North,E-commerce,853,42650,50
+13-01-2025,SKU007,Electronics Accessories,Canada,North,E-commerce,1753,87650,50
+30-12-2025,SKU031,Electronics Accessories,Mexico,South,E-commerce,1447,86820,60
+25-07-2025,SKU045,Casual Sneakers,US,West,Modern Trade,571,39970,70
+04-06-2025,SKU001,Electronics Accessories,India,North,E-commerce,1004,40160,40
+18-02-2025,SKU023,Backpacks,Germany,South,E-commerce,2644,185080,70
+13-09-2025,SKU050,Casual Shoes,US,South,E-commerce,1770,106200,60
+05-09-2025,SKU044,Electronics Accessories,India,West,General Trade,875,52500,60
+07-06-2025,SKU048,Backpacks,US,South,General Trade,2080,145600,70
+23-08-2025,SKU018,Electronics Accessories,US,West,General Trade,2507,200560,80
+30-10-2025,SKU039,Running Shoes,Canada,West,Modern Trade,1383,41490,30
+24-10-2025,SKU003,Casual Shoes,Mexico,South,Modern Trade,2470,74100,30
+05-01-2025,SKU011,Casual Shoes,Mexico,East,General Trade,2515,125750,50
+20-08-2025,SKU026,Casual Sneakers,India,West,E-commerce,2369,189520,80
+13-10-2025,SKU005,Electronics Accessories,Mexico,West,E-commerce,2051,143570,70
+24-10-2025,SKU027,Backpacks,Mexico,West,E-commerce,2116,148120,70
+19-02-2025,SKU047,Casual Shoes,Mexico,South,E-commerce,2327,139620,60
+27-06-2025,SKU025,Backpacks,India,South,General Trade,594,47520,80
+01-10-2025,SKU024,Casual Sneakers,Canada,East,General Trade,1924,134680,70
+09-03-2025,SKU004,Casual Shoes,India,North,General Trade,950,76000,80
+09-04-2025,SKU019,Electronics Accessories,US,East,General Trade,1277,102160,80
+18-02-2025,SKU029,Running Shoes,US,East,General Trade,2275,159250,70
+19-10-2025,SKU040,Sports Apparel,India,North,E-commerce,1472,44160,30
+13-05-2025,SKU047,Casual Shoes,US,East,Modern Trade,1026,71820,70
+19-04-2025,SKU003,Casual Shoes,Mexico,East,Modern Trade,723,43380,60
+29-08-2025,SKU042,Backpacks,Mexico,East,E-commerce,1887,113220,60
+07-02-2025,SKU039,Running Shoes,India,East,Modern Trade,2456,73680,30
+23-09-2025,SKU026,Casual Sneakers,India,South,General Trade,2258,135480,60
+21-09-2025,SKU002,Sports Apparel,India,South,General Trade,2894,144700,50
+22-08-2025,SKU040,Sports Apparel,US,North,Modern Trade,1083,43320,40
+27-04-2025,SKU017,Casual Shoes,Mexico,South,E-commerce,2270,181600,80
+24-12-2025,SKU037,Casual Shoes,India,West,Modern Trade,2173,65190,30
+24-04-2025,SKU010,Running Shoes,India,East,Modern Trade,953,66710,70
+15-11-2025,SKU015,Electronics Accessories,India,North,General Trade,1453,87180,60
+09-12-2025,SKU027,Backpacks,Mexico,West,E-commerce,1733,121310,70
+04-07-2025,SKU035,Casual Shoes,US,South,General Trade,1463,87780,60
+30-05-2025,SKU018,Electronics Accessories,US,East,E-commerce,2154,86160,40
+13-10-2025,SKU018,Electronics Accessories,Germany,North,Modern Trade,2989,119560,40
+30-03-2025,SKU047,Casual Shoes,Mexico,East,General Trade,2154,86160,40
+14-11-2025,SKU025,Backpacks,India,North,General Trade,2636,79080,30
+05-06-2025,SKU010,Running Shoes,Mexico,East,General Trade,2655,212400,80
+13-01-2025,SKU013,Casual Shoes,Canada,East,Modern Trade,1694,135520,80
+19-11-2025,SKU044,Electronics Accessories,Canada,East,Modern Trade,683,47810,70
+21-01-2025,SKU041,Casual Shoes,India,West,E-commerce,2172,152040,70
+10-03-2025,SKU043,Casual Shoes,Canada,North,Modern Trade,1029,30870,30
+03-03-2025,SKU011,Casual Shoes,Mexico,East,Modern Trade,1579,78950,50
+30-11-2025,SKU016,Sports Apparel,India,West,E-commerce,2649,185430,70
+25-06-2025,SKU006,Backpacks,India,North,General Trade,1043,41720,40
+12-11-2025,SKU039,Running Shoes,Germany,East,Modern Trade,2025,141750,70
+13-12-2025,SKU004,Casual Shoes,India,East,General Trade,2679,214320,80
+05-09-2025,SKU043,Casual Shoes,US,West,General Trade,734,58720,80
+06-08-2025,SKU001,Electronics Accessories,India,West,Modern Trade,1549,61960,40
+05-01-2025,SKU023,Backpacks,India,North,E-commerce,1623,81150,50
+01-06-2025,SKU016,Sports Apparel,Germany,South,E-commerce,1487,118960,80
+24-05-2025,SKU030,Electronics Accessories,India,South,Modern Trade,2010,160800,80
+31-12-2025,SKU032,Electronics Accessories,Canada,South,Modern Trade,1288,64400,50
+08-12-2025,SKU009,Casual Shoes,India,South,Modern Trade,1956,97800,50
+19-08-2025,SKU025,Backpacks,US,North,E-commerce,1587,126960,80
+17-11-2025,SKU019,Electronics Accessories,Mexico,North,General Trade,2516,176120,70
+10-02-2025,SKU005,Electronics Accessories,US,North,Modern Trade,1588,79400,50
+04-01-2025,SKU004,Casual Shoes,Germany,West,Modern Trade,2560,204800,80
+04-11-2025,SKU022,Sports Apparel,India,South,E-commerce,1809,108540,60
+26-04-2025,SKU035,Casual Shoes,Canada,South,E-commerce,2788,223040,80
+29-03-2025,SKU004,Casual Shoes,Canada,North,Modern Trade,616,18480,30
+13-06-2025,SKU007,Electronics Accessories,Mexico,East,E-commerce,1734,86700,50
+22-10-2025,SKU010,Running Shoes,Mexico,North,E-commerce,1697,101820,60
+14-11-2025,SKU021,Electronics Accessories,Mexico,West,General Trade,1483,118640,80
+01-03-2025,SKU026,Casual Sneakers,India,North,E-commerce,2401,192080,80
+13-06-2025,SKU029,Running Shoes,US,West,Modern Trade,1572,78600,50
+24-07-2025,SKU029,Running Shoes,US,East,Modern Trade,1214,72840,60
+11-04-2025,SKU015,Electronics Accessories,Mexico,West,Modern Trade,912,36480,40
+09-06-2025,SKU049,Running Shoes,India,North,E-commerce,1127,56350,50
+28-08-2025,SKU011,Casual Shoes,Mexico,West,E-commerce,1293,64650,50
+26-01-2025,SKU023,Backpacks,India,East,E-commerce,2840,198800,70
+18-04-2025,SKU032,Electronics Accessories,India,West,Modern Trade,1807,72280,40
+20-11-2025,SKU030,Electronics Accessories,US,East,General Trade,1945,97250,50
+11-03-2025,SKU042,Backpacks,US,West,General Trade,1988,139160,70
+01-03-2025,SKU014,Sports Apparel,India,North,General Trade,2433,121650,50
+18-02-2025,SKU001,Electronics Accessories,India,North,Modern Trade,1034,82720,80
+18-05-2025,SKU033,Running Shoes,US,East,General Trade,2576,103040,40
+19-09-2025,SKU006,Backpacks,Germany,North,General Trade,2309,184720,80
+09-07-2025,SKU038,Running Shoes,Canada,North,Modern Trade,2848,85440,30
+21-12-2025,SKU014,Sports Apparel,Canada,North,E-commerce,1411,42330,30
+11-07-2025,SKU019,Electronics Accessories,Canada,South,General Trade,951,66570,70
+29-06-2025,SKU020,Casual Sneakers,Germany,South,Modern Trade,1794,107640,60
+25-11-2025,SKU016,Sports Apparel,Germany,East,Modern Trade,2484,124200,50
+04-03-2025,SKU026,Casual Sneakers,Germany,West,General Trade,1866,74640,40
+14-01-2025,SKU008,Casual Shoes,Germany,East,E-commerce,815,40750,50
+09-12-2025,SKU039,Running Shoes,US,West,Modern Trade,1544,108080,70
+11-07-2025,SKU029,Running Shoes,India,South,E-commerce,585,29250,50
+24-09-2025,SKU017,Casual Shoes,Germany,East,E-commerce,773,30920,40
+26-02-2025,SKU037,Casual Shoes,India,West,Modern Trade,2750,82500,30
+30-03-2025,SKU014,Sports Apparel,India,South,Modern Trade,2872,114880,40
+03-02-2025,SKU002,Sports Apparel,US,East,Modern Trade,1167,46680,40
+09-12-2025,SKU045,Casual Sneakers,India,West,E-commerce,2092,83680,40
+22-02-2025,SKU030,Electronics Accessories,India,South,Modern Trade,2919,87570,30
+14-09-2025,SKU043,Casual Shoes,India,South,E-commerce,2074,62220,30
+12-07-2025,SKU003,Casual Shoes,Germany,West,General Trade,2297,160790,70
+08-12-2025,SKU044,Electronics Accessories,Canada,West,E-commerce,2868,114720,40
+25-05-2025,SKU020,Casual Sneakers,Mexico,North,E-commerce,715,35750,50
+30-10-2025,SKU007,Electronics Accessories,US,South,Modern Trade,753,22590,30
+07-07-2025,SKU028,Casual Shoes,Mexico,East,E-commerce,1720,137600,80
+21-07-2025,SKU049,Running Shoes,Canada,South,E-commerce,1693,135440,80
+02-08-2025,SKU017,Casual Shoes,US,East,Modern Trade,2849,227920,80
+31-01-2025,SKU048,Backpacks,Mexico,East,E-commerce,2474,123700,50
+17-04-2025,SKU048,Backpacks,Germany,North,General Trade,2959,118360,40
+01-05-2025,SKU012,Running Shoes,Canada,South,General Trade,2588,103520,40
+21-05-2025,SKU050,Casual Shoes,Germany,West,E-commerce,2310,92400,40
+21-12-2025,SKU031,Electronics Accessories,India,South,General Trade,2930,234400,80
+09-08-2025,SKU050,Casual Shoes,India,West,Modern Trade,1981,59430,30
+03-12-2025,SKU013,Casual Shoes,Mexico,East,General Trade,1576,110320,70
+27-05-2025,SKU030,Electronics Accessories,US,East,General Trade,716,35800,50
+14-12-2025,SKU045,Casual Sneakers,Canada,West,General Trade,1817,145360,80
+04-12-2025,SKU033,Running Shoes,US,East,Modern Trade,2479,74370,30
+29-03-2025,SKU043,Casual Shoes,India,South,E-commerce,2623,131150,50
+19-02-2025,SKU019,Electronics Accessories,India,North,Modern Trade,2744,137200,50
+07-01-2025,SKU024,Casual Sneakers,India,East,Modern Trade,2869,172140,60
+23-02-2025,SKU046,Backpacks,Mexico,North,E-commerce,1310,104800,80
+23-05-2025,SKU001,Electronics Accessories,Canada,South,General Trade,611,42770,70
+10-06-2025,SKU010,Running Shoes,India,South,E-commerce,2040,122400,60
+08-11-2025,SKU033,Running Shoes,India,West,Modern Trade,2317,162190,70
+18-05-2025,SKU006,Backpacks,US,West,Modern Trade,1614,129120,80
+08-04-2025,SKU019,Electronics Accessories,India,East,Modern Trade,2445,146700,60
+29-01-2025,SKU003,Casual Shoes,India,West,E-commerce,2772,194040,70
+01-01-2025,SKU012,Running Shoes,Mexico,West,Modern Trade,974,29220,30
+10-09-2025,SKU041,Casual Shoes,Mexico,West,Modern Trade,642,25680,40
+11-01-2025,SKU023,Backpacks,Mexico,North,Modern Trade,1639,131120,80
+14-07-2025,SKU043,Casual Shoes,Germany,West,E-commerce,2166,108300,50
+26-11-2025,SKU006,Backpacks,India,East,General Trade,2178,108900,50
+01-11-2025,SKU019,Electronics Accessories,Germany,East,General Trade,2071,62130,30
+24-07-2025,SKU035,Casual Shoes,Mexico,East,E-commerce,2484,74520,30
+19-05-2025,SKU039,Running Shoes,India,East,E-commerce,2676,160560,60
+25-07-2025,SKU034,Sports Apparel,Germany,South,E-commerce,1628,130240,80
+02-10-2025,SKU005,Electronics Accessories,Germany,East,General Trade,963,28890,30
+08-02-2025,SKU021,Electronics Accessories,US,West,General Trade,1130,67800,60
+30-12-2025,SKU038,Running Shoes,US,East,General Trade,2690,80700,30
+04-11-2025,SKU020,Casual Sneakers,Canada,North,E-commerce,2741,191870,70
+05-09-2025,SKU049,Running Shoes,US,South,General Trade,1787,142960,80
+12-04-2025,SKU049,Running Shoes,US,North,Modern Trade,1329,93030,70
+21-10-2025,SKU008,Casual Shoes,US,East,E-commerce,712,42720,60
+08-02-2025,SKU018,Electronics Accessories,India,North,E-commerce,981,39240,40
+29-01-2025,SKU001,Electronics Accessories,US,North,E-commerce,2797,195790,70
+14-11-2025,SKU028,Casual Shoes,Germany,West,General Trade,1722,103320,60
+01-12-2025,SKU034,Sports Apparel,Mexico,South,Modern Trade,1527,76350,50
+04-12-2025,SKU022,Sports Apparel,Mexico,East,E-commerce,505,20200,40
+19-07-2025,SKU010,Running Shoes,Canada,West,Modern Trade,1121,78470,70
+11-03-2025,SKU040,Sports Apparel,Germany,South,Modern Trade,1438,43140,30
+15-08-2025,SKU039,Running Shoes,India,East,E-commerce,2108,84320,40
+11-09-2025,SKU031,Electronics Accessories,Canada,South,E-commerce,2648,158880,60
+26-12-2025,SKU023,Backpacks,US,South,E-commerce,1177,47080,40
+01-03-2025,SKU019,Electronics Accessories,Mexico,East,E-commerce,654,26160,40
+16-09-2025,SKU034,Sports Apparel,Canada,East,E-commerce,1888,132160,70
+16-01-2025,SKU021,Electronics Accessories,India,West,E-commerce,2997,209790,70
+26-07-2025,SKU045,Casual Sneakers,Germany,East,E-commerce,2232,156240,70
+09-10-2025,SKU048,Backpacks,India,East,General Trade,2279,159530,70
+22-01-2025,SKU035,Casual Shoes,India,North,Modern Trade,1118,78260,70
+16-02-2025,SKU022,Sports Apparel,Germany,North,E-commerce,2848,170880,60
+22-02-2025,SKU033,Running Shoes,US,East,General Trade,1742,139360,80
+20-04-2025,SKU041,Casual Shoes,US,North,Modern Trade,1171,93680,80
+06-04-2025,SKU039,Running Shoes,US,East,Modern Trade,884,44200,50
+14-08-2025,SKU006,Backpacks,India,East,Modern Trade,1674,117180,70
+24-08-2025,SKU049,Running Shoes,Mexico,West,E-commerce,2211,88440,40
+25-05-2025,SKU008,Casual Shoes,US,North,General Trade,2392,119600,50
+03-11-2025,SKU037,Casual Shoes,India,West,Modern Trade,1193,59650,50
+28-09-2025,SKU031,Electronics Accessories,Germany,North,General Trade,2427,145620,60
+07-01-2025,SKU016,Sports Apparel,US,West,General Trade,2899,231920,80
+26-12-2025,SKU003,Casual Shoes,US,North,E-commerce,2241,89640,40
+02-10-2025,SKU004,Casual Shoes,US,West,E-commerce,2624,183680,70
+12-02-2025,SKU006,Backpacks,Germany,North,General Trade,2767,83010,30
+26-04-2025,SKU012,Running Shoes,US,South,Modern Trade,1406,98420,70
+17-08-2025,SKU021,Electronics Accessories,US,West,Modern Trade,1685,84250,50
+01-11-2025,SKU001,Electronics Accessories,Germany,North,E-commerce,915,45750,50
+08-02-2025,SKU001,Electronics Accessories,Brazil,West,Modern Trade,1361,81660,60
+17-10-2025,SKU003,Casual Shoes,Canada,North,E-commerce,778,46680,60
+26-11-2025,SKU042,Backpacks,Mexico,East,General Trade,1949,136430,70
+02-01-2025,SKU037,Casual Shoes,Canada,North,Modern Trade,2956,88680,30
+02-12-2025,SKU045,Casual Sneakers,US,South,E-commerce,2668,213440,80
+22-12-2025,SKU008,Casual Shoes,US,South,General Trade,1015,40600,40
+01-10-2025,SKU022,Sports Apparel,US,North,Modern Trade,1210,60500,50
+23-05-2025,SKU004,Casual Shoes,India,South,Modern Trade,1033,41320,40
+31-03-2025,SKU042,Backpacks,Mexico,North,E-commerce,2793,223440,80
+11-05-2025,SKU028,Casual Shoes,Brazil,West,General Trade,2141,85640,40
+15-10-2025,SKU050,Casual Shoes,Mexico,West,General Trade,709,56720,80
+28-07-2025,SKU024,Casual Sneakers,Mexico,West,General Trade,522,41760,80
+06-02-2025,SKU004,Casual Shoes,Mexico,West,Modern Trade,1715,68600,40
+24-10-2025,SKU045,Casual Sneakers,Mexico,North,E-commerce,1267,101360,80
+28-01-2025,SKU004,Casual Shoes,Mexico,East,General Trade,571,34260,60
+28-10-2025,SKU014,Sports Apparel,India,South,Modern Trade,2498,99920,40
+23-09-2025,SKU002,Sports Apparel,US,West,General Trade,2435,194800,80
+04-07-2025,SKU012,Running Shoes,India,South,General Trade,1880,150400,80
+13-08-2025,SKU023,Backpacks,Mexico,East,General Trade,965,57900,60
+11-05-2025,SKU040,Sports Apparel,Canada,West,Modern Trade,2958,147900,50
+03-03-2025,SKU044,Electronics Accessories,India,East,E-commerce,1576,126080,80
+06-11-2025,SKU048,Backpacks,India,East,E-commerce,2745,109800,40
+18-04-2025,SKU002,Sports Apparel,Brazil,North,E-commerce,2356,94240,40
+03-04-2025,SKU032,Electronics Accessories,Mexico,West,E-commerce,1307,52280,40
+19-01-2025,SKU025,Backpacks,India,South,Modern Trade,2847,199290,70
+02-01-2025,SKU026,Casual Sneakers,US,West,E-commerce,744,22320,30
+08-10-2025,SKU010,Running Shoes,Mexico,South,Modern Trade,1337,53480,40
+18-11-2025,SKU016,Sports Apparel,Canada,North,E-commerce,1694,67760,40
+23-04-2025,SKU034,Sports Apparel,India,East,Modern Trade,1404,42120,30
+22-10-2025,SKU043,Casual Shoes,US,West,General Trade,2598,181860,70
+14-11-2025,SKU025,Backpacks,Mexico,North,E-commerce,1024,30720,30
+18-12-2025,SKU009,Casual Shoes,US,East,General Trade,724,57920,80
+06-11-2025,SKU043,Casual Shoes,Mexico,South,Modern Trade,2421,121050,50
+15-06-2025,SKU043,Casual Shoes,Mexico,West,E-commerce,1308,104640,80
+30-08-2025,SKU020,Casual Sneakers,India,East,General Trade,2836,113440,40
+08-12-2025,SKU022,Sports Apparel,Mexico,West,General Trade,2878,143900,50
+30-08-2025,SKU045,Casual Sneakers,India,West,E-commerce,592,29600,50
+21-01-2025,SKU009,Casual Shoes,Mexico,South,General Trade,1206,60300,50
+08-03-2025,SKU035,Casual Shoes,US,North,Modern Trade,1399,55960,40
+29-01-2025,SKU048,Backpacks,Mexico,East,General Trade,1683,134640,80
+10-08-2025,SKU014,Sports Apparel,Brazil,East,General Trade,2450,73500,30
+16-08-2025,SKU041,Casual Shoes,Mexico,West,E-commerce,2509,150540,60
+17-06-2025,SKU047,Casual Shoes,Brazil,South,General Trade,2759,110360,40
+27-10-2025,SKU016,Sports Apparel,India,West,Modern Trade,1192,83440,70
+08-09-2025,SKU012,Running Shoes,India,South,Modern Trade,2478,74340,30
+18-11-2025,SKU005,Electronics Accessories,Mexico,South,Modern Trade,1312,78720,60
+27-08-2025,SKU043,Casual Shoes,Mexico,South,General Trade,2796,167760,60
+12-09-2025,SKU042,Backpacks,Mexico,South,General Trade,1939,135730,70
+02-08-2025,SKU044,Electronics Accessories,Brazil,East,General Trade,2161,151270,70
+11-12-2025,SKU048,Backpacks,Mexico,West,E-commerce,2244,89760,40
+18-02-2025,SKU014,Sports Apparel,Mexico,West,Modern Trade,2503,75090,30
+18-11-2025,SKU027,Backpacks,India,West,General Trade,1743,104580,60
+07-06-2025,SKU033,Running Shoes,Mexico,North,E-commerce,2678,160680,60
+20-11-2025,SKU020,Casual Sneakers,Canada,West,Modern Trade,2528,202240,80
+07-10-2025,SKU011,Casual Shoes,Brazil,West,E-commerce,1918,115080,60
+16-02-2025,SKU005,Electronics Accessories,Canada,South,General Trade,2989,119560,40
+27-09-2025,SKU031,Electronics Accessories,US,East,General Trade,1873,56190,30
+01-08-2025,SKU013,Casual Shoes,Brazil,North,E-commerce,1164,81480,70
+14-01-2025,SKU047,Casual Shoes,Mexico,West,Modern Trade,1653,115710,70
+30-05-2025,SKU033,Running Shoes,Mexico,West,General Trade,2801,224080,80
+06-02-2025,SKU050,Casual Shoes,India,South,E-commerce,2803,168180,60
+16-06-2025,SKU011,Casual Shoes,Brazil,South,E-commerce,2169,151830,70
+26-03-2025,SKU011,Casual Shoes,India,North,Modern Trade,971,29130,30
+26-07-2025,SKU018,Electronics Accessories,US,South,Modern Trade,689,34450,50
+14-06-2025,SKU018,Electronics Accessories,India,East,General Trade,1059,84720,80
+09-10-2025,SKU045,Casual Sneakers,Mexico,West,Modern Trade,2471,172970,70
+21-04-2025,SKU017,Casual Shoes,US,North,E-commerce,2234,89360,40
+07-07-2025,SKU037,Casual Shoes,Canada,South,E-commerce,1025,30750,30
+18-10-2025,SKU001,Electronics Accessories,India,South,Modern Trade,1511,75550,50
+08-07-2025,SKU017,Casual Shoes,Mexico,East,General Trade,1778,88900,50
+04-01-2025,SKU023,Backpacks,Mexico,North,General Trade,1272,101760,80
+19-05-2025,SKU040,Sports Apparel,US,South,E-commerce,1668,116760,70
+17-07-2025,SKU017,Casual Shoes,India,East,Modern Trade,1607,128560,80
+10-05-2025,SKU010,Running Shoes,US,North,Modern Trade,623,43610,70
+12-06-2025,SKU027,Backpacks,Mexico,North,Modern Trade,1272,50880,40
+31-03-2025,SKU048,Backpacks,Canada,South,Modern Trade,1234,74040,60
+20-11-2025,SKU021,Electronics Accessories,US,West,General Trade,2412,168840,70
+15-01-2025,SKU034,Sports Apparel,Canada,North,General Trade,2327,69810,30
+14-08-2025,SKU017,Casual Shoes,Brazil,North,General Trade,1475,88500,60
+07-12-2025,SKU028,Casual Shoes,Mexico,South,E-commerce,1849,73960,40
+27-08-2025,SKU044,Electronics Accessories,India,South,E-commerce,2653,185710,70
+28-05-2025,SKU015,Electronics Accessories,India,East,Modern Trade,1241,62050,50
+22-05-2025,SKU022,Sports Apparel,India,South,E-commerce,1876,150080,80
+24-06-2025,SKU012,Running Shoes,Mexico,West,Modern Trade,1845,73800,40
+15-06-2025,SKU040,Sports Apparel,Mexico,South,Modern Trade,2089,167120,80
+02-10-2025,SKU027,Backpacks,Mexico,East,General Trade,755,37750,50
+27-01-2025,SKU007,Electronics Accessories,Brazil,West,General Trade,1216,36480,30
+11-06-2025,SKU009,Casual Shoes,Brazil,North,E-commerce,2377,71310,30
+22-02-2025,SKU022,Sports Apparel,Mexico,North,General Trade,1613,80650,50
+24-02-2025,SKU035,Casual Shoes,Brazil,South,E-commerce,808,56560,70
+26-10-2025,SKU030,Electronics Accessories,India,West,General Trade,1243,62150,50
+01-06-2025,SKU011,Casual Shoes,Brazil,East,E-commerce,1733,103980,60
+13-06-2025,SKU001,Electronics Accessories,US,East,General Trade,1197,71820,60
+15-11-2025,SKU048,Backpacks,Mexico,East,E-commerce,1858,111480,60
+04-02-2025,SKU029,Running Shoes,India,North,General Trade,1757,52710,30
+14-12-2025,SKU004,Casual Shoes,US,North,E-commerce,2722,136100,50
+22-08-2025,SKU030,Electronics Accessories,US,North,Modern Trade,2175,65250,30
+16-03-2025,SKU014,Sports Apparel,US,South,E-commerce,2001,140070,70
+01-08-2025,SKU039,Running Shoes,US,East,General Trade,1386,83160,60
+01-06-2025,SKU011,Casual Shoes,US,West,General Trade,2953,88590,30
+21-10-2025,SKU022,Sports Apparel,US,North,E-commerce,859,68720,80
+01-02-2025,SKU033,Running Shoes,US,South,General Trade,1044,62640,60
+30-07-2025,SKU033,Running Shoes,US,North,E-commerce,2682,80460,30
+27-05-2025,SKU050,Casual Shoes,Brazil,West,General Trade,2706,135300,50
+23-02-2025,SKU007,Electronics Accessories,US,East,General Trade,2147,64410,30
+23-12-2025,SKU030,Electronics Accessories,India,North,E-commerce,2718,135900,50
+31-12-2025,SKU047,Casual Shoes,India,North,Modern Trade,673,26920,40
+10-02-2025,SKU015,Electronics Accessories,Canada,West,General Trade,1686,134880,80
+23-10-2025,SKU025,Backpacks,India,West,General Trade,1937,77480,40
+23-08-2025,SKU008,Casual Shoes,US,East,Modern Trade,2145,85800,40
+05-06-2025,SKU013,Casual Shoes,Mexico,North,E-commerce,2804,168240,60
+12-10-2025,SKU028,Casual Shoes,Mexico,North,General Trade,1068,74760,70
+07-08-2025,SKU036,Sports Apparel,India,East,E-commerce,1621,113470,70
+09-07-2025,SKU023,Backpacks,India,South,General Trade,1864,130480,70
+28-02-2025,SKU025,Backpacks,US,South,E-commerce,2847,227760,80
+17-11-2025,SKU048,Backpacks,Mexico,North,General Trade,733,58640,80
+27-11-2025,SKU025,Backpacks,US,North,E-commerce,2421,121050,50
+06-09-2025,SKU011,Casual Shoes,Mexico,West,E-commerce,2542,127100,50
+25-03-2025,SKU023,Backpacks,Brazil,North,General Trade,1896,113760,60
+20-06-2025,SKU026,Casual Sneakers,Mexico,South,General Trade,1202,96160,80
+30-01-2025,SKU007,Electronics Accessories,US,West,Modern Trade,694,27760,40
+28-03-2025,SKU043,Casual Shoes,US,North,General Trade,1470,88200,60
+21-09-2025,SKU026,Casual Sneakers,Canada,South,General Trade,652,32600,50
+20-05-2025,SKU001,Electronics Accessories,US,South,Modern Trade,1772,106320,60
+16-07-2025,SKU043,Casual Shoes,India,West,E-commerce,1215,97200,80
+15-07-2025,SKU002,Sports Apparel,Mexico,North,Modern Trade,1642,82100,50
+04-06-2025,SKU017,Casual Shoes,India,West,Modern Trade,563,45040,80
+17-07-2025,SKU009,Casual Shoes,India,East,Modern Trade,1400,112000,80
+01-09-2025,SKU044,Electronics Accessories,US,East,General Trade,676,54080,80
+22-12-2025,SKU027,Backpacks,Mexico,North,E-commerce,2056,164480,80
+25-08-2025,SKU009,Casual Shoes,US,North,E-commerce,2931,205170,70
+27-03-2025,SKU026,Casual Sneakers,Brazil,South,Modern Trade,2709,81270,30
+08-06-2025,SKU013,Casual Shoes,US,North,General Trade,1738,121660,70
+17-08-2025,SKU005,Electronics Accessories,Canada,East,Modern Trade,1497,44910,30
+30-11-2025,SKU023,Backpacks,India,West,E-commerce,2604,130200,50
+20-02-2025,SKU006,Backpacks,Mexico,North,General Trade,2367,165690,70
+12-05-2025,SKU033,Running Shoes,US,East,E-commerce,2438,195040,80
+01-02-2025,SKU029,Running Shoes,US,North,E-commerce,1580,47400,30
+30-10-2025,SKU022,Sports Apparel,Canada,South,Modern Trade,2712,162720,60
+08-06-2025,SKU015,Electronics Accessories,Brazil,North,General Trade,2285,91400,40
+18-12-2025,SKU018,Electronics Accessories,US,South,General Trade,2364,141840,60
+18-03-2025,SKU022,Sports Apparel,US,North,Modern Trade,626,37560,60
+10-07-2025,SKU002,Sports Apparel,Mexico,West,E-commerce,598,41860,70
+05-05-2025,SKU032,Electronics Accessories,India,West,Modern Trade,1428,85680,60
+02-07-2025,SKU028,Casual Shoes,Mexico,West,Modern Trade,1783,53490,30
+14-06-2025,SKU003,Casual Shoes,India,South,E-commerce,2277,113850,50
+13-11-2025,SKU042,Backpacks,Mexico,South,Modern Trade,2586,155160,60
+02-07-2025,SKU002,Sports Apparel,Mexico,North,E-commerce,974,77920,80
+29-11-2025,SKU002,Sports Apparel,Canada,South,Modern Trade,1621,48630,30
+30-03-2025,SKU003,Casual Shoes,India,South,Modern Trade,1051,63060,60
+04-04-2025,SKU050,Casual Shoes,Brazil,East,Modern Trade,1197,95760,80
+08-05-2025,SKU020,Casual Sneakers,Brazil,East,General Trade,2200,88000,40
+13-05-2025,SKU016,Sports Apparel,Canada,North,General Trade,2084,104200,50
+07-11-2025,SKU034,Sports Apparel,Brazil,East,Modern Trade,996,69720,70
+03-01-2025,SKU028,Casual Shoes,India,West,General Trade,1735,69400,40
+17-01-2025,SKU019,Electronics Accessories,Canada,East,E-commerce,2318,139080,60
+20-07-2025,SKU030,Electronics Accessories,India,East,E-commerce,2198,109900,50
+22-08-2025,SKU042,Backpacks,US,South,General Trade,2540,101600,40
+25-02-2025,SKU047,Casual Shoes,US,North,General Trade,2238,134280,60
+03-08-2025,SKU042,Backpacks,India,West,E-commerce,2727,136350,50
+30-06-2025,SKU020,Casual Sneakers,India,West,Modern Trade,2777,138850,50
+07-09-2025,SKU031,Electronics Accessories,India,North,E-commerce,1427,99890,70
+23-12-2025,SKU017,Casual Shoes,US,West,General Trade,2580,129000,50
+25-03-2025,SKU011,Casual Shoes,Canada,East,E-commerce,1767,141360,80
+13-12-2025,SKU045,Casual Sneakers,Mexico,East,Modern Trade,1052,42080,40
+27-02-2025,SKU038,Running Shoes,India,West,E-commerce,714,42840,60
+31-10-2025,SKU017,Casual Shoes,Canada,South,E-commerce,2458,172060,70
+10-04-2025,SKU048,Backpacks,Brazil,North,E-commerce,1076,32280,30
+18-08-2025,SKU004,Casual Shoes,US,South,E-commerce,548,38360,70
+01-04-2025,SKU024,Casual Sneakers,Mexico,South,Modern Trade,1375,68750,50
+31-12-2025,SKU045,Casual Sneakers,Mexico,East,Modern Trade,2098,125880,60
+31-05-2025,SKU042,Backpacks,US,North,E-commerce,2942,147100,50
+18-12-2025,SKU007,Electronics Accessories,US,North,General Trade,887,53220,60
+21-03-2025,SKU019,Electronics Accessories,Canada,South,E-commerce,1842,73680,40
+05-06-2025,SKU021,Electronics Accessories,India,South,General Trade,1179,82530,70
+17-12-2025,SKU043,Casual Shoes,Canada,East,E-commerce,1938,96900,50
+21-05-2025,SKU009,Casual Shoes,US,North,General Trade,1352,67600,50
+04-02-2025,SKU047,Casual Shoes,India,West,General Trade,2057,123420,60
+19-05-2025,SKU036,Sports Apparel,Canada,East,General Trade,810,24300,30
+12-02-2025,SKU032,Electronics Accessories,India,West,General Trade,1389,55560,40
+03-03-2025,SKU020,Casual Sneakers,India,West,Modern Trade,1292,103360,80
+11-09-2025,SKU030,Electronics Accessories,India,West,E-commerce,1937,154960,80
+22-06-2025,SKU025,Backpacks,US,North,Modern Trade,1280,89600,70
+30-08-2025,SKU046,Backpacks,Brazil,South,General Trade,639,25560,40
+24-09-2025,SKU034,Sports Apparel,US,East,E-commerce,1801,126070,70
+23-03-2025,SKU048,Backpacks,Mexico,East,Modern Trade,2045,102250,50
+30-11-2025,SKU012,Running Shoes,Mexico,South,General Trade,925,37000,40
+26-12-2025,SKU031,Electronics Accessories,US,South,E-commerce,2821,112840,40
+05-08-2025,SKU004,Casual Shoes,India,East,Modern Trade,694,20820,30
+02-12-2025,SKU041,Casual Shoes,US,South,Modern Trade,769,53830,70
+06-08-2025,SKU038,Running Shoes,Canada,South,E-commerce,2182,109100,50
+01-10-2025,SKU042,Backpacks,US,East,Modern Trade,2878,143900,50
+14-03-2025,SKU014,Sports Apparel,Mexico,East,E-commerce,1056,84480,80
+03-07-2025,SKU045,Casual Sneakers,India,East,Modern Trade,2183,87320,40
+28-12-2025,SKU019,Electronics Accessories,Brazil,East,Modern Trade,2605,182350,70
+27-08-2025,SKU049,Running Shoes,India,West,General Trade,950,28500,30
+28-06-2025,SKU009,Casual Shoes,Canada,West,General Trade,1202,96160,80
+31-07-2025,SKU007,Electronics Accessories,US,West,E-commerce,1932,77280,40
+12-08-2025,SKU041,Casual Shoes,Brazil,South,E-commerce,1253,87710,70
+10-05-2025,SKU027,Backpacks,US,South,Modern Trade,976,78080,80
+14-07-2025,SKU005,Electronics Accessories,Brazil,North,General Trade,2776,111040,40
+21-03-2025,SKU031,Electronics Accessories,India,North,E-commerce,2341,93640,40
+30-05-2025,SKU034,Sports Apparel,Canada,West,Modern Trade,2741,191870,70
+03-06-2025,SKU018,Electronics Accessories,Canada,West,E-commerce,1552,108640,70
+30-06-2025,SKU016,Sports Apparel,Mexico,East,E-commerce,2562,128100,50
+25-04-2025,SKU033,Running Shoes,Canada,West,Modern Trade,2373,118650,50
+14-10-2025,SKU048,Backpacks,Canada,North,General Trade,2200,88000,40
+07-06-2025,SKU039,Running Shoes,Mexico,North,Modern Trade,2586,103440,40
+14-09-2025,SKU026,Casual Sneakers,India,West,General Trade,1645,65800,40
+03-05-2025,SKU030,Electronics Accessories,India,East,General Trade,2920,87600,30
+29-03-2025,SKU027,Backpacks,Mexico,West,E-commerce,2120,84800,40
+07-01-2025,SKU008,Casual Shoes,US,East,General Trade,821,32840,40
+08-06-2025,SKU035,Casual Shoes,Canada,South,Modern Trade,2415,120750,50
+23-04-2025,SKU015,Electronics Accessories,US,North,E-commerce,963,77040,80
+06-07-2025,SKU006,Backpacks,Canada,West,Modern Trade,1606,128480,80
+24-08-2025,SKU048,Backpacks,US,East,E-commerce,2415,120750,50
+17-09-2025,SKU024,Casual Sneakers,Canada,South,Modern Trade,841,50460,60
+19-12-2025,SKU001,Electronics Accessories,Brazil,East,Modern Trade,2798,223840,80
+21-08-2025,SKU016,Sports Apparel,Mexico,North,E-commerce,2282,159740,70
+18-08-2025,SKU034,Sports Apparel,India,West,Modern Trade,2828,141400,50
+17-08-2025,SKU045,Casual Sneakers,Canada,South,General Trade,1060,42400,40
+07-04-2025,SKU015,Electronics Accessories,Mexico,East,E-commerce,2762,165720,60
+31-07-2025,SKU004,Casual Shoes,US,East,Modern Trade,2050,123000,60
+17-07-2025,SKU016,Sports Apparel,US,West,General Trade,530,31800,60
+03-08-2025,SKU026,Casual Sneakers,Mexico,West,Modern Trade,1378,55120,40
+10-05-2025,SKU028,Casual Shoes,Mexico,East,Modern Trade,2478,99120,40
+15-09-2025,SKU021,Electronics Accessories,Brazil,North,Modern Trade,1961,78440,40
+17-08-2025,SKU038,Running Shoes,US,East,General Trade,701,49070,70
+26-09-2025,SKU040,Sports Apparel,Mexico,West,Modern Trade,2969,148450,50
+05-02-2025,SKU044,Electronics Accessories,Mexico,South,Modern Trade,2237,178960,80
+15-03-2025,SKU044,Electronics Accessories,India,North,Modern Trade,1742,69680,40
+07-06-2025,SKU038,Running Shoes,Mexico,East,E-commerce,1235,86450,70
+15-10-2025,SKU003,Casual Shoes,US,North,General Trade,760,60800,80
+18-10-2025,SKU003,Casual Shoes,US,West,Modern Trade,2611,104440,40
+31-05-2025,SKU020,Casual Sneakers,India,South,E-commerce,1490,44700,30
+31-07-2025,SKU040,Sports Apparel,US,West,General Trade,1410,56400,40
+14-08-2025,SKU017,Casual Shoes,Brazil,West,General Trade,1925,115500,60
+24-10-2025,SKU026,Casual Sneakers,Canada,East,E-commerce,2747,192290,70
+18-01-2025,SKU042,Backpacks,India,South,E-commerce,1257,50280,40
+28-04-2025,SKU029,Running Shoes,India,North,Modern Trade,1628,81400,50
+12-06-2025,SKU022,Sports Apparel,Canada,South,E-commerce,2552,153120,60
+14-08-2025,SKU040,Sports Apparel,Canada,North,General Trade,2765,110600,40
+12-05-2025,SKU029,Running Shoes,US,South,General Trade,2814,225120,80
+16-02-2025,SKU022,Sports Apparel,Mexico,North,Modern Trade,2843,142150,50
+08-12-2025,SKU011,Casual Shoes,US,West,E-commerce,2174,65220,30
+17-01-2025,SKU021,Electronics Accessories,Brazil,North,E-commerce,533,26650,50
+12-06-2025,SKU033,Running Shoes,India,East,E-commerce,1369,95830,70
+25-09-2025,SKU047,Casual Shoes,US,South,General Trade,2802,168120,60
+08-09-2025,SKU022,Sports Apparel,India,West,Modern Trade,675,33750,50
+02-12-2025,SKU004,Casual Shoes,India,North,E-commerce,2736,218880,80
+20-06-2025,SKU016,Sports Apparel,US,North,Modern Trade,1288,90160,70
+16-09-2025,SKU038,Running Shoes,Canada,South,General Trade,1617,129360,80
+30-04-2025,SKU017,Casual Shoes,Brazil,South,Modern Trade,2367,94680,40
+01-10-2025,SKU044,Electronics Accessories,India,East,General Trade,2817,225360,80
+21-11-2025,SKU038,Running Shoes,Mexico,East,Modern Trade,1929,115740,60
+11-02-2025,SKU015,Electronics Accessories,US,South,General Trade,2442,170940,70
+19-06-2025,SKU017,Casual Shoes,US,North,General Trade,1591,127280,80
+17-02-2025,SKU020,Casual Sneakers,Mexico,South,General Trade,1187,71220,60
+16-06-2025,SKU012,Running Shoes,India,West,E-commerce,748,29920,40
+01-03-2025,SKU027,Backpacks,Brazil,West,General Trade,1326,39780,30
+26-09-2025,SKU031,Electronics Accessories,India,East,General Trade,756,45360,60
+21-04-2025,SKU044,Electronics Accessories,Brazil,North,E-commerce,784,62720,80
+02-04-2025,SKU005,Electronics Accessories,India,South,E-commerce,650,45500,70
+04-12-2025,SKU011,Casual Shoes,Mexico,West,General Trade,2337,93480,40
+05-05-2025,SKU032,Electronics Accessories,Brazil,South,Modern Trade,977,68390,70
+27-09-2025,SKU020,Casual Sneakers,Brazil,South,General Trade,2161,151270,70
+15-12-2025,SKU013,Casual Shoes,Brazil,East,Modern Trade,2706,108240,40
+25-06-2025,SKU040,Sports Apparel,Canada,East,General Trade,2054,82160,40
+03-09-2025,SKU038,Running Shoes,Mexico,North,Modern Trade,945,28350,30
+18-03-2025,SKU049,Running Shoes,Mexico,South,E-commerce,2390,71700,30
+06-04-2025,SKU028,Casual Shoes,Mexico,North,E-commerce,1891,75640,40
+16-08-2025,SKU012,Running Shoes,US,East,Modern Trade,1809,54270,30
+30-07-2025,SKU034,Sports Apparel,US,West,Modern Trade,2910,145500,50
+06-03-2025,SKU015,Electronics Accessories,Brazil,East,E-commerce,2756,220480,80
+15-08-2025,SKU035,Casual Shoes,Mexico,West,E-commerce,1969,137830,70
+27-01-2025,SKU031,Electronics Accessories,US,East,Modern Trade,1099,32970,30
+05-05-2025,SKU031,Electronics Accessories,Mexico,East,General Trade,560,28000,50
