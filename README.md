@@ -1,5 +1,7 @@
 # Retail Intelligence AI Platform
 
+<img width="1650" height="887" alt="image" src="https://github.com/user-attachments/assets/61addded-8322-4a65-bb78-4b3f1de5dbc8" />
+
 AI-powered retail market intelligence platform that transforms structured sales data into executive-ready strategic insights.
 
 This application enables users to:
@@ -21,8 +23,6 @@ This project solves that gap by:
 - Connecting dataset signals to broader market dynamics
 
 ---
-
-<img width="1650" height="887" alt="image" src="https://github.com/user-attachments/assets/61addded-8322-4a65-bb78-4b3f1de5dbc8" />
 
 
 ##  Key Features
