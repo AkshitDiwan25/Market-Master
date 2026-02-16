@@ -22,6 +22,9 @@ This project solves that gap by:
 
 ---
 
+<img width="1650" height="887" alt="image" src="https://github.com/user-attachments/assets/61addded-8322-4a65-bb78-4b3f1de5dbc8" />
+
+
 ##  Key Features
 
 ### 1. AI Executive Summary
